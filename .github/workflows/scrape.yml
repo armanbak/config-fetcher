@@ -2,7 +2,7 @@ name: Scrape V2Ray configs
 
 on:
   schedule:
-    - cron: "0 */1 * * *"   # every 3 hours
+    - cron: "*/10 * * * *"   # every 3 hours
   workflow_dispatch: {}      # allow manual trigger from the Actions tab
 
 permissions:
