@@ -30,7 +30,7 @@ CONFIG_RE = re.compile(r"(?:%s)[^\s\"'<>]+" % "|".join(re.escape(s) for s in URI
 MAX_LATENCY_MS = 2000        # drop anything slower than this
 TCP_TIMEOUT_S = 5
 MAX_CONCURRENT_TESTS = 50
-TOP_N = 30                  # how many best configs to keep in the final subscription
+TOP_N = 75                  # how many best configs to keep in the final subscription
 
 
 @dataclass
