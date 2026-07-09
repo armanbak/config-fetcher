@@ -20,16 +20,17 @@ from dataclasses import dataclass, field
 CHANNELS = [
     # add your channel usernames here, no @ and no URL, just the slug
     "filembad",
-    "FreakConfig"
+    "vpn_sra"
+    # "FreakConfig"
 ]
 
 URI_SCHEMES = ("vmess://", "vless://", "trojan://", "ss://", "ssr://")
 CONFIG_RE = re.compile(r"(?:%s)[^\s\"'<>]+" % "|".join(re.escape(s) for s in URI_SCHEMES))
 
-MAX_LATENCY_MS = 4000        # drop anything slower than this
+MAX_LATENCY_MS = 2000        # drop anything slower than this
 TCP_TIMEOUT_S = 5
 MAX_CONCURRENT_TESTS = 50
-TOP_N = 100                  # how many best configs to keep in the final subscription
+TOP_N = 30                  # how many best configs to keep in the final subscription
 
 
 @dataclass
