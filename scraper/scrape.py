@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Scrapes public Telegram channels' HTML preview pages (t.me/s/<channel>)
+Scrapes public Telegram channels' HTML preview pages (telegram.me/s/<channel>)
 for V2Ray/V2Ray-family config URIs, dedupes them, tests basic TCP
 reachability + latency, and writes a ranked subscription file.
 
-Runs on GitHub Actions (or any host where t.me is NOT filtered).
+Runs on GitHub Actions (or any host where telegram.me is NOT filtered).
 No Telegram API/login required — this only touches the public web preview.
 """
 
@@ -20,17 +20,17 @@ from dataclasses import dataclass, field
 CHANNELS = [
     # add your channel usernames here, no @ and no URL, just the slug
     "filembad",
-    "vpn_sra"
-    # "FreakConfig"
+    "configraygan",
+    "FreakConfig"
 ]
 
 URI_SCHEMES = ("vmess://", "vless://", "trojan://", "ss://", "ssr://")
 CONFIG_RE = re.compile(r"(?:%s)[^\s\"'<>]+" % "|".join(re.escape(s) for s in URI_SCHEMES))
 
-MAX_LATENCY_MS = 2000        # drop anything slower than this
+MAX_LATENCY_MS = 4000        # drop anything slower than this
 TCP_TIMEOUT_S = 5
 MAX_CONCURRENT_TESTS = 50
-TOP_N = 75                  # how many best configs to keep in the final subscription
+TOP_N = 50                  # how many best configs to keep in the final subscription
 
 
 @dataclass
@@ -42,7 +42,7 @@ class Candidate:
 
 
 def fetch_channel_html(channel: str) -> str:
-    url = f"https://t.me/s/{channel}"
+    url = f"https://telegram.me/s/{channel}"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=15) as resp:
         return resp.read().decode("utf-8", errors="ignore")
@@ -108,36 +108,36 @@ def main() -> None:
         print(f"[info] {ch}: found {len(found)} config URIs")
         all_uris.update(found)
 
-    candidates = []
-    for uri in all_uris:
-        hp = parse_host_port(uri)
-        if hp:
-            candidates.append(Candidate(uri=uri, host=hp[0], port=hp[1]))
+        candidates = []
+        for uri in all_uris:
+            hp = parse_host_port(uri)
+            if hp:
+                candidates.append(Candidate(uri=uri, host=hp[0], port=hp[1]))
 
-    print(f"[info] {len(candidates)} candidates with parseable host:port, testing connectivity...")
-    ranked = asyncio.run(rank_candidates(candidates))
-    print(f"[info] {len(ranked)} reachable within {MAX_LATENCY_MS}ms")
+        print(f"[info] {len(candidates)} candidates with parseable host:port, testing connectivity...")
+        ranked = asyncio.run(rank_candidates(candidates))
+        print(f"[info] {len(ranked)} reachable within {MAX_LATENCY_MS}ms")
 
-    top = ranked[:TOP_N]
+        top = ranked[:TOP_N]
 
-    # Plain list (one URI per line) - useful for the Arch client script
-    with open("configs/raw_list.txt", "w") as f:
-        f.write("\n".join(c.uri for c in top))
+        # Plain list (one URI per line) - useful for the Arch client script
+        with open(f"configs/{ch}-raw_list.txt", "w") as f:
+            f.write("\n".join(c.uri for c in top))
 
-    # Base64 blob subscription format, importable directly by v2rayNG / v2rayN / NekoBox etc.
-    blob = "\n".join(c.uri for c in top).encode()
-    with open("configs/subscription.txt", "w") as f:
-        f.write(base64.b64encode(blob).decode())
+        # Base64 blob subscription format, importable directly by v2rayNG / v2rayN / NekoBox etc.
+        blob = "\n".join(c.uri for c in top).encode()
+        with open(f"configs/{ch}.txt", "w") as f:
+            f.write(base64.b64encode(blob).decode())
 
-    # Small JSON with latency info, handy for the local client to pick "best"
-    with open("configs/ranked.json", "w") as f:
-        json.dump(
-            [{"uri": c.uri, "host": c.host, "port": c.port, "latency_ms": round(c.latency_ms, 1)} for c in top],
-            f,
-            indent=2,
-        )
+        # Small JSON with latency info, handy for the local client to pick "best"
+        with open(f"configs/{ch}-ranked.json", "w") as f:
+            json.dump(
+                [{"uri": c.uri, "host": c.host, "port": c.port, "latency_ms": round(c.latency_ms, 1)} for c in top],
+                f,
+                indent=2,
+            )
 
-    print(f"[done] wrote {len(top)} configs to configs/")
+        print(f"[done] wrote {len(top)} configs to configs/")
 
 
 if __name__ == "__main__":
