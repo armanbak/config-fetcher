@@ -20,7 +20,6 @@ from dataclasses import dataclass, field
 CHANNELS = [
     # add your channel usernames here, no @ and no URL, just the slug
     "filembad",
-    "configraygan",
     "FreakConfig"
 ]
 
