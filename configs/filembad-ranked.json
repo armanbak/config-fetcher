@@ -1,278 +1,278 @@
 [
   {
-    "uri": "vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80?encryption=none&host=ads01-cdn.sabzi.name.ng.&path=%2F&security=none&type=ws#%40filembad",
-    "host": "104.16.92.229",
-    "port": 80,
-    "latency_ms": 6.7
-  },
-  {
     "uri": "vless://66ea0b4c-8c39-4e8b-92f0-0a9065218d37@167.82.0.7:80?security=none&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#%40filembad",
     "host": "167.82.0.7",
     "port": 80,
-    "latency_ms": 6.9
+    "latency_ms": 1.1
   },
   {
-    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:1527?security=reality&sni=world.yahoo.com%3A443&fp=firefox&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=ad3e3a&spx=%2F2c44c7453292bcc&type=grpc#%40filembad",
-    "host": "179.237.74.104",
-    "port": 1527,
-    "latency_ms": 97.0
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4016?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=9f5e#%40filembad",
-    "host": "37.156.45.60",
-    "port": 4016,
-    "latency_ms": 97.2
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:3716?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=a93d9b#%40filembad",
-    "host": "37.156.45.60",
-    "port": 3716,
-    "latency_ms": 97.6
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4511?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=fc1849f57be0#%40filembad",
-    "host": "37.156.45.60",
-    "port": 4511,
-    "latency_ms": 98.2
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4611?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=9d50bfcefa#%40filembad",
-    "host": "37.156.45.60",
-    "port": 4611,
-    "latency_ms": 98.6
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:3716?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=4a76cd52#%40filembad",
-    "host": "37.156.45.60",
-    "port": 3716,
-    "latency_ms": 98.7
-  },
-  {
-    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:2361?security=reality&sni=world.yahoo.com%3A443&fp=firefox&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=072539711a&spx=%2F2c44c7453292bcc&type=grpc#%40filembad",
-    "host": "179.237.74.104",
-    "port": 2361,
-    "latency_ms": 99.2
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:2387?security=reality&sni=world.yahoo.com%3A443&fp=firefox&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=a93d9b&spx=%2F3a4e7061e937f69&type=grpc#%40filembad",
-    "host": "37.156.45.60",
-    "port": 2387,
-    "latency_ms": 99.4
-  },
-  {
-    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:1527?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=072539711a#%40filembad",
-    "host": "179.237.74.104",
-    "port": 1527,
-    "latency_ms": 99.7
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4511?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=db#%40filembad",
-    "host": "37.156.45.60",
-    "port": 4511,
-    "latency_ms": 99.7
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:1571?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=a93d9b#%40filembad",
-    "host": "37.156.45.60",
-    "port": 1571,
-    "latency_ms": 99.8
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:1726?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=1502957d103082b4#%40filembad",
-    "host": "37.156.45.60",
-    "port": 1726,
-    "latency_ms": 99.8
-  },
-  {
-    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:5181?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=ad3e3a#%40filembad",
-    "host": "179.237.74.104",
-    "port": 5181,
-    "latency_ms": 99.8
-  },
-  {
-    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:1527?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=ad3e3a#%40filembad",
-    "host": "179.237.74.104",
-    "port": 1527,
-    "latency_ms": 99.8
-  },
-  {
-    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:5464?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=5849771c39aa01#%40filembad",
-    "host": "179.237.74.104",
-    "port": 5464,
-    "latency_ms": 100.2
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:1726?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=9d50bfcefa#%40filembad",
-    "host": "37.156.45.60",
-    "port": 1726,
-    "latency_ms": 100.2
-  },
-  {
-    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:3190?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=537b8f4ad4ddb860#%40filembad",
-    "host": "179.237.74.104",
-    "port": 3190,
-    "latency_ms": 102.3
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:1736?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=a93d9b#%40filembad",
-    "host": "37.156.45.60",
-    "port": 1736,
-    "latency_ms": 102.4
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4611?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=9f5e#%40filembad",
-    "host": "37.156.45.60",
-    "port": 4611,
-    "latency_ms": 102.5
-  },
-  {
-    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:2361?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=072539711a#%40filembad",
-    "host": "179.237.74.104",
-    "port": 2361,
-    "latency_ms": 102.6
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4016?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=db#%40filembad",
-    "host": "37.156.45.60",
-    "port": 4016,
-    "latency_ms": 102.6
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4016?security=reality&sni=world.yahoo.com%3A443&fp=firefox&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=db&spx=%2F3a4e7061e937f69&type=grpc#%40filembad",
-    "host": "37.156.45.60",
-    "port": 4016,
-    "latency_ms": 102.6
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:2387?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=fc1849f57be0#%40filembad",
-    "host": "37.156.45.60",
-    "port": 2387,
-    "latency_ms": 103.9
-  },
-  {
-    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:4161?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=5849771c39aa01#%40filembad",
-    "host": "179.237.74.104",
-    "port": 4161,
-    "latency_ms": 104.7
-  },
-  {
-    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:3181?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=072539711a#%40filembad",
-    "host": "179.237.74.104",
-    "port": 3181,
-    "latency_ms": 104.8
-  },
-  {
-    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:2518?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=a385e5ea#%40filembad",
-    "host": "179.237.74.104",
-    "port": 2518,
-    "latency_ms": 105.9
-  },
-  {
-    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:2387?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=a93d9b#%40filembad",
-    "host": "37.156.45.60",
-    "port": 2387,
-    "latency_ms": 107.2
+    "uri": "vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80?encryption=none&host=ads01-cdn.sabzi.name.ng.&path=%2F&security=none&type=ws#%40filembad",
+    "host": "104.16.92.229",
+    "port": 80,
+    "latency_ms": 2.2
   },
   {
     "uri": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.194.134:22224?security=&encryption=none&headerType=&type=tcp#%40filembad",
     "host": "51.44.194.134",
     "port": 22224,
-    "latency_ms": 109.6
+    "latency_ms": 146.1
   },
   {
-    "uri": "vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#%40filembad",
-    "host": "45.196.201.191",
-    "port": 443,
-    "latency_ms": 119.3
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4611?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=9d50bfcefa#%40filembad",
+    "host": "37.156.45.60",
+    "port": 4611,
+    "latency_ms": 157.4
   },
   {
-    "uri": "vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=%2F%3FBIA_TELEGRAM-TGRVPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#%40filembad",
-    "host": "78.159.250.214",
-    "port": 443,
-    "latency_ms": 123.0
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4511?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=db#%40filembad",
+    "host": "37.156.45.60",
+    "port": 4511,
+    "latency_ms": 157.4
   },
   {
-    "uri": "vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#%40filembad",
-    "host": "78.159.250.214",
-    "port": 443,
-    "latency_ms": 123.2
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4511?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=fc1849f57be0#%40filembad",
+    "host": "37.156.45.60",
+    "port": 4511,
+    "latency_ms": 158.7
   },
   {
-    "uri": "vless://6d0c2658-9a4b-4c47-9083-4f8a06107eef@pl.gilangard.ir:11436?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=A2kg38KiewW1eQtfXafwTv7jQy0lSJTYU-08M3Op5z8&sid=6f988cc209aa5308&type=tcp&headerType=none#%40filembad",
-    "host": "pl.gilangard.ir",
-    "port": 11436,
-    "latency_ms": 192.0
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:1726?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=9d50bfcefa#%40filembad",
+    "host": "37.156.45.60",
+    "port": 1726,
+    "latency_ms": 160.2
+  },
+  {
+    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:3190?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=537b8f4ad4ddb860#%40filembad",
+    "host": "179.237.74.104",
+    "port": 3190,
+    "latency_ms": 160.4
+  },
+  {
+    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:5181?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=ad3e3a#%40filembad",
+    "host": "179.237.74.104",
+    "port": 5181,
+    "latency_ms": 160.5
+  },
+  {
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4016?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=9f5e#%40filembad",
+    "host": "37.156.45.60",
+    "port": 4016,
+    "latency_ms": 160.5
+  },
+  {
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:3716?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=4a76cd52#%40filembad",
+    "host": "37.156.45.60",
+    "port": 3716,
+    "latency_ms": 161.1
+  },
+  {
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4611?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=9f5e#%40filembad",
+    "host": "37.156.45.60",
+    "port": 4611,
+    "latency_ms": 161.3
+  },
+  {
+    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:2518?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=a385e5ea#%40filembad",
+    "host": "179.237.74.104",
+    "port": 2518,
+    "latency_ms": 161.4
+  },
+  {
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4016?security=reality&sni=world.yahoo.com%3A443&fp=firefox&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=db&spx=%2F3a4e7061e937f69&type=grpc#%40filembad",
+    "host": "37.156.45.60",
+    "port": 4016,
+    "latency_ms": 161.6
+  },
+  {
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:1736?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=a93d9b#%40filembad",
+    "host": "37.156.45.60",
+    "port": 1736,
+    "latency_ms": 162.9
+  },
+  {
+    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:2361?security=reality&sni=world.yahoo.com%3A443&fp=firefox&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=072539711a&spx=%2F2c44c7453292bcc&type=grpc#%40filembad",
+    "host": "179.237.74.104",
+    "port": 2361,
+    "latency_ms": 163.0
+  },
+  {
+    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:2361?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=072539711a#%40filembad",
+    "host": "179.237.74.104",
+    "port": 2361,
+    "latency_ms": 163.1
+  },
+  {
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:3716?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=a93d9b#%40filembad",
+    "host": "37.156.45.60",
+    "port": 3716,
+    "latency_ms": 164.2
+  },
+  {
+    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:5464?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=5849771c39aa01#%40filembad",
+    "host": "179.237.74.104",
+    "port": 5464,
+    "latency_ms": 164.2
+  },
+  {
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:1571?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=a93d9b#%40filembad",
+    "host": "37.156.45.60",
+    "port": 1571,
+    "latency_ms": 164.3
+  },
+  {
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:2387?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=fc1849f57be0#%40filembad",
+    "host": "37.156.45.60",
+    "port": 2387,
+    "latency_ms": 164.3
+  },
+  {
+    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:4161?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=5849771c39aa01#%40filembad",
+    "host": "179.237.74.104",
+    "port": 4161,
+    "latency_ms": 164.3
+  },
+  {
+    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:1527?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=ad3e3a#%40filembad",
+    "host": "179.237.74.104",
+    "port": 1527,
+    "latency_ms": 164.3
+  },
+  {
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:4016?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=db#%40filembad",
+    "host": "37.156.45.60",
+    "port": 4016,
+    "latency_ms": 164.4
+  },
+  {
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:2387?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=a93d9b#%40filembad",
+    "host": "37.156.45.60",
+    "port": 2387,
+    "latency_ms": 164.4
+  },
+  {
+    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:1527?security=reality&sni=world.yahoo.com%3A443&fp=firefox&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=ad3e3a&spx=%2F2c44c7453292bcc&type=grpc#%40filembad",
+    "host": "179.237.74.104",
+    "port": 1527,
+    "latency_ms": 164.5
+  },
+  {
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:2387?security=reality&sni=world.yahoo.com%3A443&fp=firefox&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=a93d9b&spx=%2F3a4e7061e937f69&type=grpc#%40filembad",
+    "host": "37.156.45.60",
+    "port": 2387,
+    "latency_ms": 168.2
+  },
+  {
+    "uri": "trojan://1------------------BanV2ray------------------1@37.156.45.60:1726?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=firefox&spx=%2F3a4e7061e937f69&type=grpc&sni=world.yahoo.com%3A443&sid=1502957d103082b4#%40filembad",
+    "host": "37.156.45.60",
+    "port": 1726,
+    "latency_ms": 168.3
+  },
+  {
+    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:3181?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=072539711a#%40filembad",
+    "host": "179.237.74.104",
+    "port": 3181,
+    "latency_ms": 168.4
+  },
+  {
+    "uri": "trojan://1-----------------BanV2ray-----------------1@179.237.74.104:1527?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=072539711a#%40filembad",
+    "host": "179.237.74.104",
+    "port": 1527,
+    "latency_ms": 169.0
   },
   {
     "uri": "vless://fd19f992-a4fc-4e6e-a9ea-1bbf60d6b681@gm1.namirasly.com:8888?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=A4dt2OuNMxhrDUa7PBP6QprHLLcT36jJW0rUT6ggCmk&sid=821e861174&spx=%2F&type=tcp&headerType=none#%40filembad",
     "host": "gm1.namirasly.com",
     "port": 8888,
-    "latency_ms": 194.6
+    "latency_ms": 182.9
+  },
+  {
+    "uri": "vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=%2F%3FBIA_TELEGRAM-TGRVPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#%40filembad",
+    "host": "78.159.250.214",
+    "port": 443,
+    "latency_ms": 188.7
+  },
+  {
+    "uri": "vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#%40filembad",
+    "host": "45.196.201.191",
+    "port": 443,
+    "latency_ms": 193.1
+  },
+  {
+    "uri": "vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#%40filembad",
+    "host": "78.159.250.214",
+    "port": 443,
+    "latency_ms": 193.8
   },
   {
     "uri": "vless://aeeb25a2-e90e-477f-8ba3-bec73bb6ad9d@dlpit.ccloudtvapp.com:2018?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=YHpxdq3UWoSZyk_mw5hUWvSkWIN4A8bksnnxrfHrzBE&sid=b5516a2b1bdcb4f6&type=tcp&headerType=none#%40filembad",
     "host": "dlpit.ccloudtvapp.com",
     "port": 2018,
-    "latency_ms": 209.8
+    "latency_ms": 209.5
   },
   {
     "uri": "vless://599ac3c7-45d9-4911-962e-c4bf2dcda1c7@can.k44lawm.ir:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#%40filembad",
     "host": "can.k44lawm.ir",
     "port": 8080,
-    "latency_ms": 222.1
+    "latency_ms": 304.6
   },
   {
     "uri": "vless://6d0c2658-9a4b-4c47-9083-4f8a06107eef@de.gilangard.ir:7733?encryption=none&security=reality&sni=blog.api.www.cloudflare.com&fp=qq&pbk=oPjBg1j0z2DzynYF5GDq8eG0Ykt9zTllp1O-3XRW-yQ&sid=2dd3099d068ab699&type=tcp&headerType=none#%40filembad",
     "host": "de.gilangard.ir",
     "port": 7733,
-    "latency_ms": 265.1
-  },
-  {
-    "uri": "vless://e996abc7-cff3-4d9f-a9dc-0d717048a345@s.avrilon.us:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.acjHXqKWEZtVE-QeN5i1dfX8rrQHE0eGw8wctrJNMVo&pbk=pak_xgMOqICE2oAimyRphnruNEP7HptVJVI5p1HjGmA&headerType=none&fp=chrome&spx=%2F0d4729593b0c130&type=tcp&flow=xtls-rprx-vision&sni=cdn.samsung.com&sid=0bad329e858e70da#%40filembad",
-    "host": "s.avrilon.us",
-    "port": 443,
-    "latency_ms": 268.5
-  },
-  {
-    "uri": "vless://b6b34e0e-91cb-4f5d-b725-5fe3c421fc7e@77.104.95.250:8443?encryption=none&host=&path=%2F&security=none&type=ws#%40filembad",
-    "host": "77.104.95.250",
-    "port": 8443,
-    "latency_ms": 276.1
-  },
-  {
-    "uri": "vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#%40filembad",
-    "host": "qq.utiltools.ru",
-    "port": 443,
-    "latency_ms": 392.2
-  },
-  {
-    "uri": "vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#%40filembad",
-    "host": "qq.utiltools.ru",
-    "port": 443,
-    "latency_ms": 400.8
-  },
-  {
-    "uri": "vless://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:2054?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%40filembad",
-    "host": "31.57.63.207",
-    "port": 2054,
-    "latency_ms": 407.6
+    "latency_ms": 319.3
   },
   {
     "uri": "vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=%2F%3FBIA_TELEGRAM%40ShadowProxy66&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#%40filembad",
     "host": "qq.utiltools.ru",
     "port": 443,
-    "latency_ms": 487.4
+    "latency_ms": 320.1
+  },
+  {
+    "uri": "vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#%40filembad",
+    "host": "qq.utiltools.ru",
+    "port": 443,
+    "latency_ms": 322.4
+  },
+  {
+    "uri": "vless://6d0c2658-9a4b-4c47-9083-4f8a06107eef@pl.gilangard.ir:11436?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=A2kg38KiewW1eQtfXafwTv7jQy0lSJTYU-08M3Op5z8&sid=6f988cc209aa5308&type=tcp&headerType=none#%40filembad",
+    "host": "pl.gilangard.ir",
+    "port": 11436,
+    "latency_ms": 382.6
+  },
+  {
+    "uri": "vless://e996abc7-cff3-4d9f-a9dc-0d717048a345@s.avrilon.us:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.acjHXqKWEZtVE-QeN5i1dfX8rrQHE0eGw8wctrJNMVo&pbk=pak_xgMOqICE2oAimyRphnruNEP7HptVJVI5p1HjGmA&headerType=none&fp=chrome&spx=%2F0d4729593b0c130&type=tcp&flow=xtls-rprx-vision&sni=cdn.samsung.com&sid=0bad329e858e70da#%40filembad",
+    "host": "s.avrilon.us",
+    "port": 443,
+    "latency_ms": 394.3
+  },
+  {
+    "uri": "vless://b6b34e0e-91cb-4f5d-b725-5fe3c421fc7e@77.104.95.250:8443?encryption=none&host=&path=%2F&security=none&type=ws#%40filembad",
+    "host": "77.104.95.250",
+    "port": 8443,
+    "latency_ms": 398.3
+  },
+  {
+    "uri": "vless://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:2054?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%40filembad",
+    "host": "31.57.63.207",
+    "port": 2054,
+    "latency_ms": 426.9
   },
   {
     "uri": "vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=%2F%3FBIA_TELEGRAM%40Sh%61dowP%72oxy66&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#%40filembad",
     "host": "qq.utiltools.ru",
     "port": 443,
-    "latency_ms": 492.3
+    "latency_ms": 513.4
+  },
+  {
+    "uri": "vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#%40filembad",
+    "host": "qq.utiltools.ru",
+    "port": 443,
+    "latency_ms": 661.4
   },
   {
     "uri": "vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=%2F%3FBIA_TELEGRAM%40NexVexo_NexVexo_NexVexo_NexVexo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#%40filembad",
     "host": "qq.utiltools.ru",
     "port": 443,
-    "latency_ms": 498.3
+    "latency_ms": 663.7
   }
 ]
