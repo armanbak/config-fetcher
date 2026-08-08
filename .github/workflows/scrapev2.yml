@@ -24,7 +24,7 @@ jobs:
       - name: Run aggregator
         run: |
           python3 scraper/scraper2.py \
-            --channels-file channels.txt \
+            --channels filembad,FreakConfig,configraygan \
             -n 100 \
             -o output \
             --delay 1.5
