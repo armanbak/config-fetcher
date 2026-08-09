@@ -1,10 +1,9 @@
+vless://3adac494-0eb1-4d89-a187-b2181691444d@104.21.55.229:8880?encryption=none&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%40filembad
+vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@104.171.133.53:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%40filembad
 vless://9765ab3b-ac48-4fc8-9e89-0e580bf521c7@91.228.227.231:58909?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#%40filembad
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@77.222.35.10:2200?path=%2Fv1&security=&encryption=none&type=ws#%40filembad
 vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@172.66.132.196:8880?encryption=none&host=floral-resonance-4baf.468.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%40filembad
 vless://da557d0f-dc4e-47b9-bfcb-5d9f0de39eb3@91.98.154.118:41291?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%40filembad
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#%40filembad
-vless://70e63e1e-08fc-4c8f-885f-ff55b2e57288@185.143.232.122:80?type=ws&encryption=none&path=/news&host=out11.pasargardnet.ir&security=none#%40filembad
-vless://70e63e1e-08fc-4c8f-885f-ff55b2e57288@185.143.232.122:80?type=ws&encryption=none&path=/news&host=out10.pasargardnet.ir&security=none#%40filembad
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%B0%40FreakConfig
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
