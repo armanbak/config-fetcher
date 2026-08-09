@@ -1,3 +1,5 @@
+vless://0fdee718-bf74-48d3-967d-ab7a0801a5c1@159.223.65.190:9090?encryption=none&security=none&type=tcp#%40filembad
+vless://c1e43f18-5d63-4f34-b2e2-84b425cddfc7@95.182.114.74:443?encryption=none&security=none&type=tcp#%40filembad
 vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?&type=tcp&headerType=none&path=%2F#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.197.75.14:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://f937575c-35c2-4889-832e-b67935d565d8@217.145.79.102:24478?security=&encryption=none&headerType=&type=tcp#%40filembad
@@ -18,9 +20,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22223?Telegram=@Gozarga
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.255:62145?#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://272dcdf4-0cbd-4b81-a1c2-702d15de605b@193.39.9.241:2087?encryption=none&security=none&type=tcp#%40filembad
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
 vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.132.221:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
