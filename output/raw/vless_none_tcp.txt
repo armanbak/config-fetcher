@@ -1,3 +1,4 @@
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.255:62145?#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://272dcdf4-0cbd-4b81-a1c2-702d15de605b@193.39.9.241:2087?encryption=none&security=none&type=tcp#%40filembad
@@ -20,7 +21,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22222?encryption=none&s
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22224?encryption=none&security=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22223?encryption=none&security=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22222?encryption=none&security=none&type=tcp#%40filembad
-vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://40303e53-3674-433c-bf6d-0155a761c966@95.182.114.74:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://dc2a36c3-1eec-444e-abcd-d435adf0a74f@45.131.185.205:47504?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://fba7da11-1d4e-4c74-9a90-fe290eb9539d@new.frizan.ir:2019?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%40FreakConfig

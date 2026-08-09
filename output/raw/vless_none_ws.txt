@@ -1,3 +1,5 @@
+vless://70e63e1e-08fc-4c8f-885f-ff55b2e57288@185.143.232.122:80?type=ws&encryption=none&path=/news&host=out11.pasargardnet.ir&security=none#%40filembad
+vless://70e63e1e-08fc-4c8f-885f-ff55b2e57288@185.143.232.122:80?type=ws&encryption=none&path=/news&host=out10.pasargardnet.ir&security=none#%40filembad
 vless://da557d0f-dc4e-47b9-bfcb-5d9f0de39eb3@91.98.154.118:41291?encryption=none&type=ws&host=play.google.com&path=/&security=none#%40filembad
 vless://d92afe21-8e8b-42c7-98c2-8a33da64d28f@39.109.117.110:43646?path=%2Fd92afe21&security=none&encryption=none&type=ws#%40filembad
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%40filembad
@@ -5,7 +7,6 @@ vless://3fd3909b-238f-42c4-9170-38d10014b1d8@135.125.184.182:50559?path=%2F&secu
 vless://3fd3909b-238f-42c4-9170-38d10014b1d8@135.125.184.182:50559?path=%2F&security=&encryption=none&host=Play.googel.com&type=ws#%40filembad
 vless://7362c389-7f4b-4c41-9594-fdb847570243@206.189.146.23:17658?path=%2FFree%20By%20Tharuwa%20%280767597317%29&security=&encryption=none&host=zoom.us&type=ws#%40filembad
 vless://3fd3909b-238f-42c4-9170-38d10014b1d8@135.125.184.182:50559?encryption=none&host=Play.googel.com&path=%2F&security=none&type=ws#%40filembad
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@168.222.140.155:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%40filembad
 vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@download.yunzhongzhuan.com:8880?path=%2Fpyip&security=none&encryption=none&host=steep-thunder-97fa.108-d10.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://b4469373-b425-4902-80d4-a00e00ada7de@178.104.67.108:50303?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://b4469373-b425-4902-80d4-a00e00ada7de@65.108.156.124:50303?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
