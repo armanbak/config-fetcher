@@ -1,3 +1,4 @@
+vless://da557d0f-dc4e-47b9-bfcb-5d9f0de39eb3@91.98.154.118:41291?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%40filembad
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#%40filembad
 vless://70e63e1e-08fc-4c8f-885f-ff55b2e57288@185.143.232.122:80?type=ws&encryption=none&path=/news&host=out11.pasargardnet.ir&security=none#%40filembad
 vless://70e63e1e-08fc-4c8f-885f-ff55b2e57288@185.143.232.122:80?type=ws&encryption=none&path=/news&host=out10.pasargardnet.ir&security=none#%40filembad
@@ -5,7 +6,6 @@ vless://da557d0f-dc4e-47b9-bfcb-5d9f0de39eb3@91.98.154.118:41291?encryption=none
 vless://d92afe21-8e8b-42c7-98c2-8a33da64d28f@39.109.117.110:43646?path=%2Fd92afe21&security=none&encryption=none&type=ws#%40filembad
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%40filembad
 vless://3fd3909b-238f-42c4-9170-38d10014b1d8@135.125.184.182:50559?path=%2F&security=none&encryption=none&host=Play.googel.com&type=ws#%40filembad
-vless://3fd3909b-238f-42c4-9170-38d10014b1d8@135.125.184.182:50559?path=%2F&security=&encryption=none&host=Play.googel.com&type=ws#%40filembad
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%B0%40FreakConfig
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
