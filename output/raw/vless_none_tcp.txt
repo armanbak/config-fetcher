@@ -1,3 +1,4 @@
+vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://ae377f50-57c1-4a17-ac6b-d771f5fdb427@31.56.206.72:8443?type=tcp&security=none&encryption=none&headerType=none#%40filembad
 vless://ae377f50-57c1-4a17-ac6b-d771f5fdb427@31.56.206.72:8443?encryption=none&headerType=none&security=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.174.17:22222?encryption=none&security=none&type=tcp#%40filembad
@@ -13,7 +14,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.72.71:22224?encryption=none&
 vless://e73e63ad-e22e-4a79-b565-25521ac22670@201.34.142.29:901?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://450340b0-e455-4e4b-9325-64244338a795@185.218.139.222:2000?type=tcp&encryption=none&headerType=none&security=none#%40filembad
 vless://SoonTeam@191.215.37.90:443?security=&encryption=none&headerType=&type=tcp#%40filembad
-vless://3d0135ce-97f0-4b2f-90c3-e8aaa01be795@206.72.205.152:40296?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.174.17:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.174.17:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.174.17:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
