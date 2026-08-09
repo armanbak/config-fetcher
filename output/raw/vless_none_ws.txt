@@ -1,3 +1,4 @@
+vless://d0f52d7e-6e95-4b58-b100-da49b298bc96@95.38.182.182:998?path=%2Fmmd&security=none&encryption=none&type=ws#%40filembad
 vless://3adac494-0eb1-4d89-a187-b2181691444d@104.21.55.229:8880?encryption=none&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%40filembad
 vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@104.171.133.53:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%40filembad
 vless://9765ab3b-ac48-4fc8-9e89-0e580bf521c7@91.228.227.231:58909?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#%40filembad
