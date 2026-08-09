@@ -1,3 +1,5 @@
+vless://50414e45-4c5f-5a45-5553-0a45278f5fde@172.67.109.230:80?path=%2FTrexBridge&security=none&encryption=none&insecure=0&host=web-app-nfr45q.jakosnwilimain.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=web-app-nfr45q.jakosnwilimain.workers.dev&fragment=100-200,1-1#%40filembad
+vless://50414e45-4c5f-5a45-5553-0a45278f5fde@104.27.97.195:80?path=%2FTrexBridge&security=none&encryption=none&insecure=0&host=web-app-nfr45q.jakosnwilimain.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=web-app-nfr45q.jakosnwilimain.workers.dev&fragment=100-200,1-1#%40filembad
 vless://aefcf667-37b4-4983-b18d-ab4ba50bd8c2@91.98.168.59:8880?path=%2F%3Fed%3D2560&type=ws&encryption=none&security=none&host=play.google.com#%40filembad
 vless://aefcf667-37b4-4983-b18d-ab4ba50bd8c2@91.98.168.59:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#%40filembad
 vless://25ee756f-e6ba-42bd-8bd5-465d064e9f30@91.98.154.118:57775?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#%40filembad
