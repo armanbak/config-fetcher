@@ -1,0 +1,2 @@
+vless://6ede8d99-be53-4b7f-9183-255325c71bf2@198.41.209.56:8443?path=%2F&security=tls&encryption=none&insecure=0&type=httpupgrade&allowInsecure=0&sni=fdsa.cjdpars-m.ir#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+vless://14400b5d-a218-4ed0-b4a9-d703a3501911@max-ep.443.erangle.ru:14368?path=%2F&security=tls&encryption=none&insecure=0&host=max-ep.443.erangle.ru&fp=chrome&type=httpupgrade&allowInsecure=0&sni=max-ep.443.erangle.ru#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig

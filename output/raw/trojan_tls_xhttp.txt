@@ -1,0 +1,1 @@
+trojan://VPNCUSTOMIZE@188.114.97.6:443?mode=stream-one&path=%2Findex&security=tls&insecure=0&host=Internal-Server-Error.cloudi.de5.net&type=xhttp&allowInsecure=0&sni=cloudi.de5.net#configraygan_16

@@ -1,0 +1,2 @@
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:2052?path=%2Fv-hu&security=none&encryption=none&host=tr.cdn.doctor-alan.ir&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+vless://0e92ca5c-d15f-48b0-adeb-9dc9fe6fc467@104.25.189.214:2052?path=%2F&security=none&encryption=none&host=cdn.safev2ray.site&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig

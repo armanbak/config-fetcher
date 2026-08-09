@@ -1,0 +1,4 @@
+# One channel username per line, no @ needed, lines starting with # are ignored
+filembad,
+FreakConfig,
+configraygan

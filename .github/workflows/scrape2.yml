@@ -1,0 +1,38 @@
+name: Fetch V2Ray Configs
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"  
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run aggregator
+        run: |
+          python3 scraper/scraper2.py \
+            --channels-file channels.txt \
+            -n 100 \
+            -o output \
+            --delay 1.5
+
+      - name: Commit updated configs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output
+          git diff --staged --quiet || git commit -m "Update configs $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

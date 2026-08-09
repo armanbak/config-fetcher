@@ -19,8 +19,7 @@ from dataclasses import dataclass, field
 
 CHANNELS = [
     # add your channel usernames here, no @ and no URL, just the slug
-    "filembad",
-    "FreakConfig"
+    "filembad","FreakConfig","configraygan"
 ]
 
 URI_SCHEMES = ("vmess://", "vless://", "trojan://", "ss://", "ssr://")
