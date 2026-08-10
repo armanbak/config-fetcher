@@ -1,9 +1,6 @@
 vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@147.45.235.14:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%40filembad
 vless://50414e45-4c5f-5a45-5553-0a45278f5fde@172.67.109.230:80?path=%2FTrexBridge&security=none&encryption=none&insecure=0&host=web-app-nfr45q.jakosnwilimain.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=web-app-nfr45q.jakosnwilimain.workers.dev&fragment=100-200,1-1#%40filembad
 vless://50414e45-4c5f-5a45-5553-0a45278f5fde@104.27.97.195:80?path=%2FTrexBridge&security=none&encryption=none&insecure=0&host=web-app-nfr45q.jakosnwilimain.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=web-app-nfr45q.jakosnwilimain.workers.dev&fragment=100-200,1-1#%40filembad
-vless://aefcf667-37b4-4983-b18d-ab4ba50bd8c2@91.98.168.59:8880?path=%2F%3Fed%3D2560&type=ws&encryption=none&security=none&host=play.google.com#%40filembad
-vless://aefcf667-37b4-4983-b18d-ab4ba50bd8c2@91.98.168.59:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#%40filembad
-vless://25ee756f-e6ba-42bd-8bd5-465d064e9f30@91.98.154.118:57775?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#%40filembad
 vless://9765ab3b-ac48-4fc8-9e89-0e580bf521c7@91.228.227.231:58909?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%B0%40FreakConfig
