@@ -1,8 +1,8 @@
+vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#%40filembad
 vless://5c4e0882-cbab-4653-848e-2005d1e98ec5@91.228.227.231:54034?encryption=none&security=none&type=ws&host=play.google.com&path=%2F#%40filembad
 vless://35e8826f-0873-492d-8b8a-d495c9947480@104.16.98.215:8880?encryption=none&security=none&type=ws&host=super-sunset-010c.24-43d.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#%40filembad
 vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=square-tree-3dbf.285.workers.dev&type=ws#%40filembad
 vless://a8c23fe7-d2bb-46ba-a14e-8847f1944642@104.17.178.154:8880?type=ws&encryption=none&host=billowing-fire-a10b.301-d6c.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=0#%40filembad
-vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#%40filembad
 vless://84bd9b10-0046-4c7c-89fb-854decb0f9df@140.248.185.253:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=silverfrance.global.ssl.fastly.net#%40filembad
 vless://9765ab3b-ac48-4fc8-9e89-0e580bf521c7@91.228.227.231:58909?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://a2aa7759-ddac-4d02-bf9d-de62cbff9481@104.171.132.232:2200?path=%2Fv1&security=none&encryption=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
