@@ -1,3 +1,9 @@
+vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?encryption=none&security=none&type=tcp&headerType=none#%40filembad
+vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&security=none&type=tcp&headerType=none#%40filembad
+vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8080?security=&encryption=none&headerType=&type=tcp#%40filembad
+vless://bb74b833-eb41-440f-b15e-5539bc7792b2@200.165.228.131:443?security=&encryption=none&headerType=&type=tcp#%40filembad
+vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8880?security=&encryption=none&headerType=&type=tcp#%40filembad
+vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8443?security=&encryption=none&headerType=&type=tcp#%40filembad
 vless://644d7311-8b06-4cfc-89bc-3c83898f55b5@140.233.177.21:38134?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.105:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.105:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
@@ -7,7 +13,6 @@ vless://f7d78118-f954-40dd-a0de-7fe7245798c7@31.56.222.59:19869?security=&encryp
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.162.116:62145?security=&encryption=none&headerType=&type=tcp#%40filembad
 vless://36da22bd-ab50-4759-9ce2-f894db39358e@185.126.236.181:14006?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.105.116:22222?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.84.121:22223?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.105.116:22224?encryption=none&security=none&type=tcp&headerType=none#%40filembad
