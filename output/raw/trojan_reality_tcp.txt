@@ -1,7 +1,6 @@
-trojan://aT8IM3oAvt@138.124.92.103:44453?security=reality&pbk=RAlMKlEpT_CeD5sWS_fCgtS3Tpfss3WCfJrHDbvx2BU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=aws.amazon.com&sid=8ef331069304bf#%40filembad
-trojan://8JVEIsVfog@138.124.92.103:22909?security=reality&pbk=XIBs8Qe28LFcHDwlBZECRZDZTg82cKdbL0iuedlGqX4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.icloud.com&sid=ed51#%40filembad
-trojan://ADWeZhEKU7@138.124.92.103:12747?security=reality&pbk=W6dA_kRx3ZZBnaVizmTG5bb2dNMVMdDqYHUO5F5lEyw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.oracle.com&sid=869e1eab6a66#%40filembad
-trojan://aT8IM3oAvt@138.124.92.103:44453?security=reality&sni=aws.amazon.com&fp=chrome&pbk=RAlMKlEpT_CeD5sWS_fCgtS3Tpfss3WCfJrHDbvx2BU&sid=8ef331069304bf&spx=%2F&type=tcp&headerType=none#%40filembad
-trojan://8JVEIsVfog@138.124.92.103:22909?security=reality&sni=www.icloud.com&fp=chrome&pbk=XIBs8Qe28LFcHDwlBZECRZDZTg82cKdbL0iuedlGqX4&sid=ed51&spx=%2F&type=tcp&headerType=none#%40filembad
-trojan://HUCtytDBdv@138.124.92.103:45749?security=reality&sni=www.sony.com&fp=chrome&pbk=SjgqTGjNIAK-iI1cC0r7UJJGYCa_Lg9xCaYeNsXLOX8&sid=dd&spx=%2F&type=tcp&headerType=none#%40filembad
-trojan://ADWeZhEKU7@138.124.92.103:12747?security=reality&sni=www.oracle.com&fp=chrome&pbk=W6dA_kRx3ZZBnaVizmTG5bb2dNMVMdDqYHUO5F5lEyw&sid=869e1eab6a66&spx=%2F&type=tcp&headerType=none#%40filembad
+trojan://TgTrWOUNeU@66.33.22.242:30797?security=reality&pbk=RJ0RY863D8N8ntZJhZ_79rNb8BrKxZ2Tn-pr1W9iBEQ&headerType=&fp=chrome&spx=%2F&type=tcp&sni=is1-ssl.mzstatic.com&sid=16#%40filembad
+trojan://xGfeFeTWja@138.124.90.40:38608?security=reality&sni=www.icloud.com&fp=chrome&pbk=1h2THwJ8wOwCqguMwBeaCjPhETJUHDr_7sPTQQZNnFw&sid=67f400e127240bd3&spx=%2F&type=tcp&headerType=none#%40filembad
+trojan://qv9uJwZgsM@138.124.90.40:59172?security=reality&sni=www.nvidia.com&fp=chrome&pbk=GNHW6lMIsvMlwH69blrKP0HZ57PPUg5k2j4McJ1SNBA&sid=95&spx=%2F&type=tcp&headerType=none#%40filembad
+trojan://ZpbROQ5hRn@138.124.90.40:40476?security=reality&sni=www.amd.com&fp=chrome&pbk=xD3b_4SwDxrnUqa2NTgup4mYi1mjKYPwhaD4e4H_9yU&sid=14da&spx=%2F&type=tcp&headerType=none#%40filembad
+trojan://fQkGQafiTd@138.124.90.40:52556?security=reality&sni=aws.amazon.com&fp=chrome&pbk=wrYXdw8PdyMzrf01h0R9l_9SVuIXuK563TmOqOK4rH4&sid=f6338d1bfe27&spx=%2F&type=tcp&headerType=none#%40filembad
+trojan://uiUuLPcDqU@138.124.90.40:13751?security=reality&sni=www.apple.com&fp=chrome&pbk=xcSogyO7e4nJKwodA84bsWCO5YP6D1t9aAXmnegvMDk&sid=cdc0ea0b88&spx=%2F&type=tcp&headerType=none#%40filembad
