@@ -1,3 +1,4 @@
+vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@31.76.76.26:443?path=%2F&security=none&encryption=none&type=ws#%40filembad
 vless://d2e87c86-3111-4172-a752-eff7f14fdea2@3.96.31.222:15215?path=%2F&security=none&encryption=none&host=anten.ir&type=ws#%40filembad
 vless://50414e45-4c5f-5a45-5553-7bac159e3b40@104.27.110.37:80?path=%2Fapi%2Fws&security=none&encryption=none&insecure=0&host=web-app-ji3j1z.app-wuuhuw.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=web-app-ji3j1z.app-wuuhuw.workers.dev&fragment=100-200,1-1#%40filembad
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?path=/&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.gq&type=ws#%40filembad
