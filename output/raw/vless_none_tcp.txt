@@ -1,3 +1,4 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.222.124:22222?encryption=none&security=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.65.145.222:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.65.145.222:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.65.145.222:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
@@ -10,12 +11,6 @@ vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?encryption=none&s
 vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8080?security=&encryption=none&headerType=&type=tcp#%40filembad
 vless://bb74b833-eb41-440f-b15e-5539bc7792b2@200.165.228.131:443?security=&encryption=none&headerType=&type=tcp#%40filembad
-vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8880?security=&encryption=none&headerType=&type=tcp#%40filembad
-vless://6fbdb14e-fc86-4f30-8514-7693fb7fbea8@188.212.96.126:8443?security=&encryption=none&headerType=&type=tcp#%40filembad
-vless://644d7311-8b06-4cfc-89bc-3c83898f55b5@140.233.177.21:38134?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.105:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.105:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.103.244:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.103.244:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://d0adc759-395b-4ea6-96e2-12661ca9a78e@Alman.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
