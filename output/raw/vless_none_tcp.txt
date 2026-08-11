@@ -1,3 +1,5 @@
+vless://0b63d039-8ad4-41a7-9c3c-09fef07ec4c9@185.8.172.140:443?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:36980?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://c863c8f0-cda1-429c-be76-cbefc8a418a1@93.123.13.7:15755?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://9f108161-c3cf-444b-989a-2d864b165435@93.123.13.7:40312?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.25.66:22223?encryption=none&security=none&type=tcp&headerType=none#%40filembad
