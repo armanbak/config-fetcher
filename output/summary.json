@@ -1,20 +1,20 @@
 {
   "categories": {
-    "hysteria2_tls_quic": 4,
+    "hysteria2_tls_quic": 3,
     "ss_none_tcp": 22,
     "trojan_tls_ws": 8,
     "vless_false_ws": 1,
     "vless_none_grpc": 8,
     "vless_none_tcp": 48,
-    "vless_none_ws": 28,
+    "vless_none_ws": 29,
     "vless_none_xhttp": 1,
     "vless_reality_grpc": 25,
-    "vless_reality_tcp": 104,
-    "vless_reality_xhttp": 17,
+    "vless_reality_tcp": 101,
+    "vless_reality_xhttp": 19,
     "vless_tls_tcp": 1,
     "vless_tls_ws": 23,
     "vless_tls_xhttp": 5,
-    "vmess_none_tcp": 5
+    "vmess_none_tcp": 6
   },
   "total_configs": 300,
   "per_channel": {
