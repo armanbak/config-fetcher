@@ -1,4 +1,7 @@
 vless://f1326e70-a16b-4548-8434-d62f951f7f3e@91.98.154.118:41291?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%40filembad
+vless://f1326e70-a16b-4548-8434-d62f951f7f3e@91.98.154.118:41291?security=none&host=play.google.com&encryption=none&type=ws&path=%2F#%40filembad
+vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?path=%2Fws&security=none&encryption=none&host=soft-shadow-1e33.xicav73335.workers.dev&type=ws#%40filembad
+vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?security=none&type=ws&path=/&host=parsi.parsi.sbs&encryption=none#%40filembad
 vless://b4a16091-a25d-4d33-aee3-f5ae04f34b14@172.67.151.243:2086?path=%2FeyJqdW5rIjoiRjJEdlF3U251aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTEzLjE1OCIsIjEwMy45Ny44OC4xMzMiLCIxOTQuMTgwLjE4OC4yNDEiLCIxMTYuMjAyLjEzMi4yMDUiXX0%3D%3Fed%3D2560&security=none&encryption=none&host=blue-brook-cc73.karren391.workers.dev&type=ws#%40filembad
 vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?encryption=none&type=ws&path=%2Fcdn%2Fassets%2Fstream&host=cnd.france2.gg.newwaycdn.com#%40filembad
 vless://f1326e70-a16b-4548-8434-d62f951f7f3e@91.98.154.118:41291?encryption=none&type=ws&host=play.google.com&path=/&security=none#%40filembad
