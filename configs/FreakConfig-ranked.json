@@ -1,302 +1,302 @@
 [
   {
-    "uri": "vless://0f350a5d-e801-4eca-a1b9-abe9798ad48a@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-    "host": "199.232.78.159",
-    "port": 443,
-    "latency_ms": 1.0
-  },
-  {
-    "uri": "vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:2083?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
-    "host": "104.25.193.8",
-    "port": 2083,
-    "latency_ms": 1.5
-  },
-  {
-    "uri": "vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER&security=tls&encryption=none&insecure=1&host=pane2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-    "host": "199.232.78.159",
-    "port": 443,
-    "latency_ms": 1.5
-  },
-  {
-    "uri": "vless://f3a21b24-5963-495a-a82f-1f62cb459335@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-    "host": "199.232.78.159",
-    "port": 443,
-    "latency_ms": 1.6
-  },
-  {
-    "uri": "trojan://MiTiVPN@104.21.40.208:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=dde1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
-    "host": "104.21.40.208",
-    "port": 443,
-    "latency_ms": 1.7
-  },
-  {
-    "uri": "vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?encryption=none&type=ws&path=%2Fcdn%2Fassets%2Fstream&host=cnd.france2.gg.newwaycdn.com#%40filembad",
-    "host": "8.47.69.0",
-    "port": 8880,
-    "latency_ms": 1.7
-  },
-  {
-    "uri": "vless://255f9bd5-670f-4b34-9429-9e4388594160@151.101.56.7:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&insecure=1&host=pane3.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-    "host": "151.101.56.7",
-    "port": 443,
-    "latency_ms": 1.7
-  },
-  {
-    "uri": "vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:443?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
-    "host": "104.25.193.8",
-    "port": 443,
-    "latency_ms": 1.7
-  },
-  {
-    "uri": "vless://c3a13cef-f00e-4951-89f8-8304013706d7@66.33.22.224:59614?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&pbk=Rr96ANUC69JyFwqKh-v9WLzsUT86I8FuS6zvDymk4hs&fp=randomized&spx=%2F&type=xhttp&sni=is1-ssl.mzstatic.com&sid=6d9ba7#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-    "host": "66.33.22.224",
-    "port": 59614,
-    "latency_ms": 1.7
-  },
-  {
     "uri": "vless://b4a16091-a25d-4d33-aee3-f5ae04f34b14@172.67.151.243:2086?path=%2FeyJqdW5rIjoiRjJEdlF3U251aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTEzLjE1OCIsIjEwMy45Ny44OC4xMzMiLCIxOTQuMTgwLjE4OC4yNDEiLCIxMTYuMjAyLjEzMi4yMDUiXX0%3D%3Fed%3D2560&security=none&encryption=none&host=blue-brook-cc73.karren391.workers.dev&type=ws#%40filembad",
     "host": "172.67.151.243",
     "port": 2086,
-    "latency_ms": 1.7
-  },
-  {
-    "uri": "trojan://MiTiVPN@172.66.40.99:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ffl---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=Flll-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
-    "host": "172.66.40.99",
-    "port": 443,
-    "latency_ms": 1.8
-  },
-  {
-    "uri": "vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?security=none&encryption=none&path=%2Fcdn%2Fassets%2Fstream&host=cnd.france2.gg.newwaycdn.com&type=ws#%40filembad",
-    "host": "8.47.69.0",
-    "port": 8880,
-    "latency_ms": 1.8
+    "latency_ms": 6.0
   },
   {
     "uri": "trojan://MITIVPN@104.19.229.21:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde2---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=Ddee2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
     "host": "104.19.229.21",
     "port": 443,
-    "latency_ms": 1.9
+    "latency_ms": 6.1
+  },
+  {
+    "uri": "vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?encryption=none&type=ws&path=%2Fcdn%2Fassets%2Fstream&host=cnd.france2.gg.newwaycdn.com#%40filembad",
+    "host": "8.47.69.0",
+    "port": 8880,
+    "latency_ms": 6.2
+  },
+  {
+    "uri": "vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:2083?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
+    "host": "104.25.193.8",
+    "port": 2083,
+    "latency_ms": 6.4
+  },
+  {
+    "uri": "trojan://MiTiVPN@172.66.40.99:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ffl---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=Flll-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
+    "host": "172.66.40.99",
+    "port": 443,
+    "latency_ms": 6.4
+  },
+  {
+    "uri": "vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?path=%2Fws&security=none&encryption=none&host=soft-shadow-1e33.xicav73335.workers.dev&type=ws#%40filembad",
+    "host": "103.133.1.160",
+    "port": 80,
+    "latency_ms": 6.5
   },
   {
     "uri": "trojan://MITIVPN@104.18.42.68:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=Ussa1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
     "host": "104.18.42.68",
     "port": 443,
-    "latency_ms": 1.9
+    "latency_ms": 6.6
   },
   {
     "uri": "vless://3217c0c1-240b-4c98-8e06-4c364298fc64@104.16.6.70:8443?mode=packet-up&path=%2Fhome%2Fnovinser%2Fpublic_html%2Fmy%2Fmodules%2Fservers%2Fcdnserver%2Fcdnserver.php&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cd.solidesign.uk#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
     "host": "104.16.6.70",
     "port": 8443,
-    "latency_ms": 2.0
+    "latency_ms": 6.8
   },
   {
-    "uri": "vless://7a2df38b-2d8b-486b-9b43-641c81e11f40@104.16.99.215:8880?encryption=none&security=none&type=ws&host=shiny-mud-d9fa.466.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#%40filembad",
-    "host": "104.16.99.215",
-    "port": 8880,
-    "latency_ms": 2.0
+    "uri": "vless://f3a21b24-5963-495a-a82f-1f62cb459335@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+    "host": "199.232.78.159",
+    "port": 443,
+    "latency_ms": 9.0
   },
   {
-    "uri": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?security=none&encryption=none&host=vms.lifetime59.workers.dev&type=ws#%40filembad",
-    "host": "185.159.247.30",
-    "port": 8880,
-    "latency_ms": 2.1
+    "uri": "vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER&security=tls&encryption=none&insecure=1&host=pane2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+    "host": "199.232.78.159",
+    "port": 443,
+    "latency_ms": 9.2
+  },
+  {
+    "uri": "vless://255f9bd5-670f-4b34-9429-9e4388594160@151.101.56.7:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&insecure=1&host=pane3.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+    "host": "151.101.56.7",
+    "port": 443,
+    "latency_ms": 9.4
+  },
+  {
+    "uri": "trojan://MiTiVPN@151.101.56.0:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=s4z-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+    "host": "151.101.56.0",
+    "port": 443,
+    "latency_ms": 9.4
+  },
+  {
+    "uri": "vless://0f350a5d-e801-4eca-a1b9-abe9798ad48a@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+    "host": "199.232.78.159",
+    "port": 443,
+    "latency_ms": 10.4
+  },
+  {
+    "uri": "trojan://MiTiVPN@104.21.40.208:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=dde1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
+    "host": "104.21.40.208",
+    "port": 443,
+    "latency_ms": 12.5
   },
   {
     "uri": "vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:2053?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
     "host": "104.25.193.8",
     "port": 2053,
-    "latency_ms": 2.2
-  },
-  {
-    "uri": "vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@104.18.34.245:8880?security=none&type=ws&host=weathered-union-5358.101-262.workers.dev#%40filembad",
-    "host": "104.18.34.245",
-    "port": 8880,
-    "latency_ms": 2.2
-  },
-  {
-    "uri": "vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@172.64.153.11:8880?security=none&type=ws&host=weathered-union-5358.101-262.workers.dev#%40filembad",
-    "host": "172.64.153.11",
-    "port": 8880,
-    "latency_ms": 2.2
+    "latency_ms": 13.2
   },
   {
     "uri": "vless://56a182fc-c306-4701-8eef-6f8e08be3d1a@188.114.98.47:443?path=%2F&security=tls&encryption=none&insecure=0&host=icy-dust-3024.shirokhorshid1212.workers.dev&fp=firefox&type=ws&allowInsecure=0&sni=icy-dust-3024.shirokhorshid1212.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
     "host": "188.114.98.47",
     "port": 443,
-    "latency_ms": 2.6
+    "latency_ms": 15.6
   },
   {
-    "uri": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647#%40filembad",
-    "host": "182.16.61.4",
-    "port": 45647,
-    "latency_ms": 8.4
+    "uri": "vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:443?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
+    "host": "104.25.193.8",
+    "port": 443,
+    "latency_ms": 15.8
   },
   {
     "uri": "vless://97ff78bd-e928-6009-513b-1812863d8c9a@69.46.46.123:443?path=%2Fws%2F97ff78bd-e928-6009-513b-1812863d8c9a&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-3a78.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-3a78.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
     "host": "69.46.46.123",
     "port": 443,
-    "latency_ms": 8.6
+    "latency_ms": 23.4
   },
   {
-    "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#%40filembad",
-    "host": "70.39.198.35",
-    "port": 54166,
-    "latency_ms": 9.2
+    "uri": "vless://c3a13cef-f00e-4951-89f8-8304013706d7@66.33.22.224:59614?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&pbk=Rr96ANUC69JyFwqKh-v9WLzsUT86I8FuS6zvDymk4hs&fp=randomized&spx=%2F&type=xhttp&sni=is1-ssl.mzstatic.com&sid=6d9ba7#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+    "host": "66.33.22.224",
+    "port": 59614,
+    "latency_ms": 26.8
   },
   {
-    "uri": "vless://a219d501-b239-24e0-352a-553180e0de84@ansooyefilter88.up.railway.app:443?path=%2Fws%2Fa219d501-b239-24e0-352a-553180e0de84&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ansooyefilter88.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter88.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-    "host": "ansooyefilter88.up.railway.app",
-    "port": 443,
-    "latency_ms": 15.8
-  },
-  {
-    "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQjJDdjlWSWx1amo@23.150.248.20:8388#%40filembad",
-    "host": "23.150.248.20",
-    "port": 8388,
-    "latency_ms": 40.6
-  },
-  {
-    "uri": "vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@216.227.139.182:443?security=reality&encryption=none&pbk=emyTD9CrDD70f-SWV1eWsh33WFJ-3lgSZ4gg4LtWo3c&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=shy-phoenix.cdn.cachefleet.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-    "host": "216.227.139.182",
-    "port": 443,
-    "latency_ms": 73.1
-  },
-  {
-    "uri": "vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=xhttp&sni=dl.kaspersky.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-    "host": "88.218.44.5",
-    "port": 443,
-    "latency_ms": 73.2
-  },
-  {
-    "uri": "vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?mode=gun&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.kaspersky.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-    "host": "88.218.44.5",
-    "port": 8443,
-    "latency_ms": 75.0
+    "uri": "vless://6b222876-01c4-4fcf-b8a3-68b522c83736@66.33.22.221:26734?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&pbk=jQWpTMgcw5nTx0zzqXdibPripB7qNUQC5b8X7ghx_GY&fp=randomized&spx=%2F&type=xhttp&sni=is1-ssl.mzstatic.com&sid=f86f2b5fc27216#%40filembad",
+    "host": "66.33.22.221",
+    "port": 26734,
+    "latency_ms": 27.4
   },
   {
     "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40filembad",
     "host": "15.235.75.71",
     "port": 8388,
-    "latency_ms": 77.4
+    "latency_ms": 36.3
   },
   {
-    "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#%40filembad",
-    "host": "176.97.73.215",
-    "port": 8388,
-    "latency_ms": 107.8
+    "uri": "vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?mode=gun&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.kaspersky.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+    "host": "88.218.44.5",
+    "port": 8443,
+    "latency_ms": 39.9
   },
   {
-    "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.162.2:50099#%F0%9F%87%B9%F0%9F%87%BC%40FreakConfig",
-    "host": "36.224.162.2",
-    "port": 50099,
-    "latency_ms": 136.5
-  },
-  {
-    "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%40filembad",
-    "host": "51.77.225.200",
-    "port": 8388,
-    "latency_ms": 138.3
-  },
-  {
-    "uri": "vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@94.249.225.79:443?security=reality&encryption=none&pbk=X6zcH8pCUXrauNQvbNkm8e_oTdB0wOr8eCMCzs3b1Tc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=grand-lynx.cdn.cachefleet.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
-    "host": "94.249.225.79",
+    "uri": "vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=xhttp&sni=dl.kaspersky.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+    "host": "88.218.44.5",
     "port": 443,
-    "latency_ms": 141.9
+    "latency_ms": 41.9
   },
   {
-    "uri": "vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@164.37.109.190:443?security=reality&encryption=none&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=uk.cdn.cachefleet.com#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig",
-    "host": "164.37.109.190",
+    "uri": "vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@216.227.139.182:443?security=reality&encryption=none&pbk=emyTD9CrDD70f-SWV1eWsh33WFJ-3lgSZ4gg4LtWo3c&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=shy-phoenix.cdn.cachefleet.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+    "host": "216.227.139.182",
     "port": 443,
-    "latency_ms": 142.0
+    "latency_ms": 42.9
+  },
+  {
+    "uri": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.253:10000?security=none&encryption=none&headerType=none&type=tcp#%40filembad",
+    "host": "180.178.60.253",
+    "port": 10000,
+    "latency_ms": 45.4
+  },
+  {
+    "uri": "vless://a219d501-b239-24e0-352a-553180e0de84@ansooyefilter88.up.railway.app:443?path=%2Fws%2Fa219d501-b239-24e0-352a-553180e0de84&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ansooyefilter88.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter88.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+    "host": "ansooyefilter88.up.railway.app",
+    "port": 443,
+    "latency_ms": 63.4
   },
   {
     "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#%40filembad",
     "host": "188.116.23.244",
     "port": 8388,
-    "latency_ms": 145.7
+    "latency_ms": 107.6
+  },
+  {
+    "uri": "vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@164.37.109.190:443?security=reality&encryption=none&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=uk.cdn.cachefleet.com#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig",
+    "host": "164.37.109.190",
+    "port": 443,
+    "latency_ms": 108.9
   },
   {
     "uri": "vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
     "host": "95.85.228.161",
     "port": 8443,
-    "latency_ms": 146.5
-  },
-  {
-    "uri": "vless://f692629b-3557-488a-9c9b-60775331e423@185.238.191.26:443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi1-cosmostechnology.ru#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
-    "host": "185.238.191.26",
-    "port": 443,
-    "latency_ms": 146.9
-  },
-  {
-    "uri": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22222?headerType=none&encryption=none&type=tcp&security=none#%40filembad",
-    "host": "3.124.219.154",
-    "port": 22222,
-    "latency_ms": 147.4
+    "latency_ms": 109.4
   },
   {
     "uri": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad",
     "host": "3.124.219.154",
     "port": 22224,
-    "latency_ms": 148.1
-  },
-  {
-    "uri": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22223?headerType=none&encryption=none&type=tcp&security=none#%40filembad",
-    "host": "3.124.219.154",
-    "port": 22223,
-    "latency_ms": 148.3
-  },
-  {
-    "uri": "vless://23bda1f5-da85-4de6-aacb-ce77acb88808@5.75.202.32:7190?encryption=none&type=tcp&security=reality&headerType=none&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&sid=7398e0c72f7d5c0e#%40filembad",
-    "host": "5.75.202.32",
-    "port": 7190,
-    "latency_ms": 148.6
-  },
-  {
-    "uri": "vless://23bda1f5-da85-4de6-aacb-ce77acb88808@5.75.202.32:7190?security=reality&encryption=none&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=7398e0c72f7d5c0e#%40filembad",
-    "host": "5.75.202.32",
-    "port": 7190,
-    "latency_ms": 148.7
-  },
-  {
-    "uri": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22224?headerType=none&encryption=none&type=tcp&security=none#%40filembad",
-    "host": "3.124.219.154",
-    "port": 22224,
-    "latency_ms": 148.9
-  },
-  {
-    "uri": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#%F0%9F%87%A7%F0%9F%87%AA%40FreakConfig",
-    "host": "109.69.218.217",
-    "port": 443,
-    "latency_ms": 150.0
-  },
-  {
-    "uri": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#%F0%9F%87%A7%F0%9F%87%AA%40FreakConfig",
-    "host": "109.69.218.217",
-    "port": 443,
-    "latency_ms": 150.8
-  },
-  {
-    "uri": "vless://f692629b-3557-488a-9c9b-60775331e423@132.243.225.182:443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi1-cosmostechnology.ru#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
-    "host": "132.243.225.182",
-    "port": 443,
-    "latency_ms": 151.3
+    "latency_ms": 109.7
   },
   {
     "uri": "vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@164.37.109.189:443?security=reality&encryption=none&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig",
     "host": "164.37.109.189",
     "port": 443,
-    "latency_ms": 151.8
+    "latency_ms": 110.6
   },
   {
-    "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%40filembad",
-    "host": "51.195.126.38",
+    "uri": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#%F0%9F%87%A7%F0%9F%87%AA%40FreakConfig",
+    "host": "109.69.218.217",
+    "port": 443,
+    "latency_ms": 111.3
+  },
+  {
+    "uri": "vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#%F0%9F%87%A7%F0%9F%87%AA%40FreakConfig",
+    "host": "109.69.218.217",
+    "port": 443,
+    "latency_ms": 111.7
+  },
+  {
+    "uri": "vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?security=reality&encryption=none&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=808a7e8a2e32c697#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+    "host": "130.49.185.196",
+    "port": 443,
+    "latency_ms": 112.9
+  },
+  {
+    "uri": "vless://841be8d9-964f-4183-9e99-a65e41c3a018@40.66.33.31:2042?security=none&encryption=none&headerType=none&type=tcp#%40filembad",
+    "host": "40.66.33.31",
+    "port": 2042,
+    "latency_ms": 113.7
+  },
+  {
+    "uri": "vless://841be8d9-964f-4183-9e99-a65e41c3a018@40.66.33.31:2064?security=none&encryption=none&headerType=none&type=tcp#%40filembad",
+    "host": "40.66.33.31",
+    "port": 2064,
+    "latency_ms": 114.5
+  },
+  {
+    "uri": "vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2053?security=none&encryption=none&headerType=none&type=tcp#%40filembad",
+    "host": "40.66.33.31",
+    "port": 2053,
+    "latency_ms": 115.0
+  },
+  {
+    "uri": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.162.237:22222?encryption=none&security=none&type=tcp&headerType=none#%40filembad",
+    "host": "63.186.162.237",
+    "port": 22222,
+    "latency_ms": 115.3
+  },
+  {
+    "uri": "vless://4411e63c-9d5f-403f-b8b4-89ea29fbde2a@176.65.151.64:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vrCKcD_CfJ3HnoBh8WVGXXPxhCyjXjSVnFDfi14w53s&security=reality&sid=71c764&sni=home.amazon.com&spx=%2Fa32433ebeac8e8c&type=tcp#%40filembad",
+    "host": "176.65.151.64",
+    "port": 443,
+    "latency_ms": 115.4
+  },
+  {
+    "uri": "vless://f692629b-3557-488a-9c9b-60775331e423@185.238.191.26:443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi1-cosmostechnology.ru#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+    "host": "185.238.191.26",
+    "port": 443,
+    "latency_ms": 116.7
+  },
+  {
+    "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%40filembad",
+    "host": "51.255.13.232",
     "port": 8388,
-    "latency_ms": 152.3
+    "latency_ms": 117.2
+  },
+  {
+    "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%40filembad",
+    "host": "51.77.225.200",
+    "port": 8388,
+    "latency_ms": 117.3
+  },
+  {
+    "uri": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388?type=tcp#%40filembad",
+    "host": "51.255.13.232",
+    "port": 8388,
+    "latency_ms": 117.5
+  },
+  {
+    "uri": "vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+    "host": "144.31.157.104",
+    "port": 20017,
+    "latency_ms": 120.5
+  },
+  {
+    "uri": "vless://23bda1f5-da85-4de6-aacb-ce77acb88808@5.75.205.74:7190?encryption=none&type=tcp&security=reality&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&sid=7398e0c72f7d5c0e&sni=www.yahoo.com&fp=chrome#%40filembad",
+    "host": "5.75.205.74",
+    "port": 7190,
+    "latency_ms": 121.2
+  },
+  {
+    "uri": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad",
+    "host": "3.124.219.154",
+    "port": 22223,
+    "latency_ms": 121.3
   },
   {
     "uri": "vless://f692629b-3557-488a-9c9b-60775331e423@84.21.189.231:443?mode=gun&security=reality&encryption=none&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&type=grpc&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
     "host": "84.21.189.231",
     "port": 443,
-    "latency_ms": 152.4
+    "latency_ms": 121.6
+  },
+  {
+    "uri": "vless://23bda1f5-da85-4de6-aacb-ce77acb88808@5.75.202.32:7190?encryption=none&type=tcp&security=reality&headerType=none&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&sid=7398e0c72f7d5c0e#%40filembad",
+    "host": "5.75.202.32",
+    "port": 7190,
+    "latency_ms": 121.8
+  },
+  {
+    "uri": "vless://23bda1f5-da85-4de6-aacb-ce77acb88808@5.75.202.32:7190?security=reality&encryption=none&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=7398e0c72f7d5c0e#%40filembad",
+    "host": "5.75.202.32",
+    "port": 7190,
+    "latency_ms": 122.0
+  },
+  {
+    "uri": "vless://f692629b-3557-488a-9c9b-60775331e423@132.243.225.182:443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi1-cosmostechnology.ru#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+    "host": "132.243.225.182",
+    "port": 443,
+    "latency_ms": 122.3
   }
 ]
