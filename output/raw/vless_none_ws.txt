@@ -1,6 +1,6 @@
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?path=%2F&security=none&encryption=none&host=download.pusytroller.gq&type=ws#%40filembad
 vless://cf484711-bee2-419f-afd9-c4a4728c0c2a@91.234.39.183:443?path=%2F&security=none&encryption=none&host=snapp.ir&type=ws#%40filembad
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?path=%2F&security=none&encryption=none&host=fuckingfangbinxing.pusytroller.cf&type=ws#%40filembad
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?path=%2F&security=none&encryption=none&host=download.pusytroller.gq&type=ws#%40filembad
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#%40filembad
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?path=%2Fv1&security=none&encryption=none&type=ws#%40filembad
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=&encryption=none&host=parsi.parsi.sbs&type=ws#%40filembad
