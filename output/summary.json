@@ -1,11 +1,11 @@
 {
   "categories": {
-    "ss_none_tcp": 28,
+    "ss_none_tcp": 29,
     "trojan_tls_tcp": 1,
     "trojan_tls_ws": 11,
     "vless_none_grpc": 7,
-    "vless_none_tcp": 85,
-    "vless_none_ws": 23,
+    "vless_none_tcp": 84,
+    "vless_none_ws": 22,
     "vless_none_xhttp": 1,
     "vless_reality_grpc": 24,
     "vless_reality_tcp": 61,
@@ -13,7 +13,7 @@
     "vless_tls_tcp": 1,
     "vless_tls_ws": 24,
     "vless_tls_xhttp": 4,
-    "vmess_none_tcp": 11
+    "vmess_none_tcp": 12
   },
   "total_configs": 300,
   "per_channel": {
