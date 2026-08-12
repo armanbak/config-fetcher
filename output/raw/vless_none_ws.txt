@@ -1,3 +1,5 @@
+vless://48c20f0a-c2a4-453f-8a61-ec73ea7829c5@104.21.23.72:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=&encryption=none&host=morning-brook-d78e.347.workers.dev&type=ws&sni=www.gov.ua#%40filembad
+vless://129b50b6-060d-475c-b1de-b87c2a67051f@104.21.88.129:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=&encryption=none&host=shrill-waterfall-bfe2.416.workers.dev&type=ws#%40filembad
 vless://f1326e70-a16b-4548-8434-d62f951f7f3e@91.98.154.118:41291?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%40filembad
 vless://f1326e70-a16b-4548-8434-d62f951f7f3e@91.98.154.118:41291?security=none&host=play.google.com&encryption=none&type=ws&path=%2F#%40filembad
 vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?path=%2Fws&security=none&encryption=none&host=soft-shadow-1e33.xicav73335.workers.dev&type=ws#%40filembad
