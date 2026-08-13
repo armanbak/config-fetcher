@@ -1,19 +1,19 @@
 {
   "categories": {
-    "ss_none_tcp": 29,
+    "ss_none_tcp": 25,
     "trojan_tls_tcp": 1,
     "trojan_tls_ws": 11,
     "vless_none_grpc": 7,
-    "vless_none_tcp": 76,
-    "vless_none_ws": 24,
+    "vless_none_tcp": 75,
+    "vless_none_ws": 25,
     "vless_none_xhttp": 1,
     "vless_reality_grpc": 24,
-    "vless_reality_tcp": 65,
-    "vless_reality_xhttp": 19,
+    "vless_reality_tcp": 70,
+    "vless_reality_xhttp": 20,
     "vless_tls_tcp": 1,
     "vless_tls_ws": 24,
     "vless_tls_xhttp": 4,
-    "vmess_none_tcp": 14
+    "vmess_none_tcp": 12
   },
   "total_configs": 300,
   "per_channel": {
