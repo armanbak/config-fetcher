@@ -1,3 +1,4 @@
+vless://9ab4c043-dc1a-403b-b8a4-b9ddb1616e8d@191.40.4.7:40359?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://9ab4c043-dc1a-403b-b8a4-b9ddb1616e8d@191.40.4.7:40359?encryption=none&security=none&type=tcp#%40filembad
 vless://c47b02c7-f4cb-4ebc-92aa-c9bc247008a6@144.225.65.186:16927?security=none&encryption=mlkem768x25519plus.native.0rtt.fFuLUU_0j6ZHp-igsLoBZZjAZYVDiJBH_ST8hNfrz0I&headerType=none&type=tcp#%40filembad
 vless://6554e5f8-69d3-4215-b825-a53bc72bf403@198.105.123.118:16133?security=none&encryption=none&headerType=none&type=tcp#%40filembad
@@ -31,12 +32,6 @@ vless://841be8d9-964f-4183-9e99-a65e41c3a018@40.66.33.31:2064?security=none&encr
 vless://d250e5e5-264f-43af-a8e1-025b31e499fd@78.135.77.103:23367?type=tcp&encryption=none&security=none#%40filembad
 vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2041?security=none&encryption=none&host=BIA_TELEGRAM%3F%3D%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2&headerType=none&type=tcp#%40filembad
 vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2041?encryption=none&security=none&type=tcp&headerType=none#%40filembad
-vless://841be8d9-964f-4183-9e99-a65e41c3a018@40.66.33.31:2064?encryption=none&security=none&type=tcp&headerType=none#%40filembad
-vless://841be8d9-964f-4183-9e99-a65e41c3a018@40.66.33.31:2042?encryption=none&security=none&type=tcp&headerType=none#%40filembad
-vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2053?encryption=none&security=none&type=tcp&headerType=none#%40filembad
-vless://dc9083be-4768-4225-8547-aa04eddc091a@37.252.23.108:443?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://cfda87b3-4426-4fd2-b37e-3f385fbecb0d@xnzn-gpa36i.paydar.site:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.45.65:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.45.65:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
