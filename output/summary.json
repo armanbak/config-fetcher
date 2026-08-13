@@ -1,10 +1,10 @@
 {
   "categories": {
-    "ss_none_tcp": 29,
+    "ss_none_tcp": 30,
     "trojan_tls_tcp": 1,
     "trojan_tls_ws": 11,
     "vless_none_grpc": 7,
-    "vless_none_tcp": 82,
+    "vless_none_tcp": 81,
     "vless_none_ws": 22,
     "vless_none_xhttp": 1,
     "vless_reality_grpc": 24,
