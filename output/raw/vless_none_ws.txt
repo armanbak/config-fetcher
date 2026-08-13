@@ -1,5 +1,5 @@
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=&encryption=none&host=parsi.parsi.sbs&type=ws#%40filembad
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#%40filembad
+vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=&encryption=none&host=parsi.parsi.sbs&type=ws#%40filembad
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?path=/&security=none&encryption=none&host=download.pusytroller.gq&type=ws#%40filembad
 vless://2d315d81-be21-4002-9d4e-48146d86983b@104.16.250.22:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=auto-2d315d.callofduty1234m188.workers.dev&type=ws#%40filembad
 vless://398eb05d-f9f7-4249-bf52-d59ce6427cda@104.18.12.229:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=auto-398eb0.aliamiri1234.workers.dev&type=ws#%40filembad
