@@ -15,7 +15,6 @@ vless://4093e0fe-939d-41a8-95c1-395728cbbd93@170.114.46.6:80?security=none&type=
 vless://fb1572c8-96c2-4485-9946-4f83b82bd350@185.143.233.5:2095?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=pwa.videocloudme.ir#%40filembad
 vless://fb1572c8-96c2-4485-9946-4f83b82bd350@185.143.233.5:8880?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=game.videocloudme.ir#%40filembad
 vless://fb1572c8-96c2-4485-9946-4f83b82bd350@185.143.233.5:2052?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=web.gamespasebot.ir#%40filembad
-vless://bed7577d-6d8c-4345-aa3b-545a625554af@185.206.92.88:80?path=%2F&security=none&encryption=none&host=love-iran.akbar1999.ir&type=ws#%40filembad
 vless://de9f46e2-5785-4978-b1d0-c6b308a66b35@95.38.182.182:995?path=%2Fmmd&security=none&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://808580aa-c9a2-4122-af67-89300df67fdf@188.213.197.141:34343?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
