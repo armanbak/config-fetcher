@@ -1,3 +1,4 @@
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?security=none&path=/&host=fuckingfangbinxing.pusytroller.cf&type=ws&encryption=none#%40filembad
 vless://e9a56d95-778b-4f6e-8b50-80c05e686191@95.182.99.100:8443?path=%2F&security=none&encryption=none&type=ws#%40filembad
 vless://4093e0fe-939d-41a8-95c1-395728cbbd93@170.114.46.6:80?encryption=none&host=j03.sahanwickramasinghe.me&path=/&security=none&type=ws#%40filembad
 vless://45172ad2-bfb4-4403-a525-2b60b4e75985@185.126.236.181:2053?path=%2F&security=none&encryption=none&host=www.icloud.com&type=ws#%40filembad
