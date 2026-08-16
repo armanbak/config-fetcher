@@ -1,7 +1,7 @@
 hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?security=tls&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9&insecure=0&sni=a26738d5774ad803.devmrzero.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443?#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%40filembad
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443?#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#%40filembad
 ss://YWVzLTI1Ni1nY206UGNPRTUybHlHTzZNRlJtNi9tNWhmdUMzTnBOb2NrRHZjbk5ZZ3ExOE5pND0@79.175.134.49:39880#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#%40filembad
@@ -165,9 +165,9 @@ vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?security=reality&en
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?mode=gun&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=grpc&serviceName=TunService&sni=download.nvidia.com#%E2%9A%94%20-%20%40configraygan-25
 vless://1a9cf116-5578-4858-82ef-8778a5cf5aac@31.15.18.162:38370?mode=gun&security=reality&encryption=none&pbk=LXx8jqs9QVdo7p1ImjWwxLBAIGRSkx8xg_ygeurCmjc&fp=chrome&spx=%2Fc9524f77294a76a&type=grpc&serviceName=gRPC&sni=play.google.com&sid=11a8#%E2%9A%94%20-%20%40configraygan-28
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?mode=gun&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=grpc&serviceName=TunService&sni=download.nvidia.com#%E2%9A%94%20-%20%40configraygan-31
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@195.63.138.112:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=v938014.hosted-by-vdsina.com&fp=firefox&pbk=2guR3_fpRkIfDzdWBWDibb0H2Ypn06vq2vqMF4WfNUk&sid=1899e4d82e80cbcf&type=tcp&headerType=none#%40filembad
 vless://7a3fa6b9-e862-4b3f-b742-a9168c4fa3b6@31.76.66.5:443?encryption=none&security=reality&sid=5fd2b921da642f3e&type=tcp&pbk=6rrQ09njNw0wrfGg_S48ySsl4v17Q6uTAIMnECMWbyU&fp=firefox&flow=xtls-rprx-vision&sni=fi.velajio.com&headerType=none#%40filembad
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?type=tcp&headerType=none&sid=dd3ff38418d29d22&fp=firefox&security=reality&sni=eu-west.cendora.ru&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&flow=xtls-rprx-vision&encryption=none#%40filembad
-vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@195.63.138.112:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=v938014.hosted-by-vdsina.com&fp=firefox&pbk=2guR3_fpRkIfDzdWBWDibb0H2Ypn06vq2vqMF4WfNUk&sid=1899e4d82e80cbcf&type=tcp&headerType=none#%40filembad
 vless://3775ad6e-d281-8bc5-36e9-9c5324a69393@167.99.178.229:8039?flow=xtls-rprx-vision&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&type=tcp&sni=amp-api-edge.apps.apple.com&sid=35938c4e546cd459&security=reality&headerType=none&fp=ios#%40filembad
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?fp=firefox&sid=dd3ff38418d29d22&encryption=none&type=tcp&headerType=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&security=reality#%40filembad
 vless://7a3fa6b9-e862-4b3f-b742-a9168c4fa3b6@31.76.66.5:443?flow=xtls-rprx-vision&encryption=none&pbk=6rrQ09njNw0wrfGg_S48ySsl4v17Q6uTAIMnECMWbyU&type=tcp&sni=fi.velajio.com&sid=5fd2b921da642f3e&security=reality&headerType=none&fp=firefox#%40filembad
