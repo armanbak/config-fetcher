@@ -1,1 +1,1 @@
-vless://e3c40721-22bc-4862-a358-09502fc14af6@157.22.187.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8qUm4S6MR9bLa-ZfblO64aKjRIwGEFEwdVIxgz_tbn4&security=reality&sid=33b5887524592cad&sni=tunix.ciphero.xyz&type=raw#%40filembad
+vless://348b1b7d-fe7b-43f9-84b5-a2917925c8a8@213.193.253.227:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=en2.wolffast.net&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59#%40filembad
