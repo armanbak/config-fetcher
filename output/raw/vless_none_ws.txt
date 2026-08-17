@@ -1,3 +1,5 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.66.30:8880?type=ws&host=vms.lifetime04.workers.dev#%40filembad
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.30:8880?type=ws&host=vms.lifetime51.workers.dev#%40filembad
 vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@87.228.122.100:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%40filembad
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?path=/&security=none&encryption=none&type=ws&host=fuckingfangbinxing.pusytroller.cf#%40filembad
 vless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&host=node.badrangteb.ir&type=ws#%40filembad
@@ -17,7 +19,6 @@ vless://3b037295-b93f-4ed1-b3ee-0efb8bc2f093@104.171.137.185:2200?encryption=non
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?security=none&path=/&host=fuckingfangbinxing.pusytroller.cf&type=ws&encryption=none#%40filembad
 vless://e9a56d95-778b-4f6e-8b50-80c05e686191@95.182.99.100:8443?path=%2F&security=none&encryption=none&type=ws#%40filembad
 vless://4093e0fe-939d-41a8-95c1-395728cbbd93@170.114.46.6:80?encryption=none&host=j03.sahanwickramasinghe.me&path=/&security=none&type=ws#%40filembad
-vless://45172ad2-bfb4-4403-a525-2b60b4e75985@185.126.236.181:2053?path=%2F&security=none&encryption=none&host=www.icloud.com&type=ws#%40filembad
 vless://206cf065-d75e-4be4-b8b1-e59b2533361c@dede.danqela.ir:23474?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://808580aa-c9a2-4122-af67-89300df67fdf@188.213.197.141:34343?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
