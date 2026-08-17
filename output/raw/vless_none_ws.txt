@@ -9,9 +9,6 @@ vless://875d3876-ab9a-4dd6-8a8d-bf57f03403aa@104.26.13.40:8880?host=square-sea-0
 vless://902fd911-ca5d-49a6-99ad-47372a266804@104.21.15.212:8880?host=young-wildflower-6b6c.100-52d.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&type=ws#%40filembad
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.66.30:8880?type=ws&host=vms.lifetime04.workers.dev#%40filembad
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.30:8880?type=ws&host=vms.lifetime51.workers.dev#%40filembad
-vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@87.228.122.100:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%40filembad
-vless://bceda826-c83c-45d0-891e-15c4bfec76bc@168.222.141.146:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%40filembad
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.236:4100?path=%2Fv1&security=none&encryption=none&type=ws#%40filembad
 vless://808580aa-c9a2-4122-af67-89300df67fdf@188.213.197.141:34343?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://7362c389-7f4b-4c41-9594-fdb847570243@206.189.146.23:17658?path=%2FFree%20By%20Tharuwa%20%280767597317%29&security=&encryption=none&host=zoom.us&type=ws#configraygan_8
 vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=&encryption=none&host=play.google.com&type=ws#configraygan_15
