@@ -1,0 +1,1 @@
+trojan://BEwWAh0ftF@185.126.236.186:19684?path=%2F&security=none&host=amp-api-edge.apps.apple.com&type=httpupgrade#configraygan_20
