@@ -5,17 +5,17 @@
     "trojan_tls_tcp": 1,
     "trojan_tls_ws": 3,
     "vless_none_grpc": 6,
-    "vless_none_tcp": 55,
+    "vless_none_tcp": 54,
     "vless_none_ws": 16,
     "vless_none_xhttp": 3,
     "vless_reality_grpc": 25,
-    "vless_reality_tcp": 95,
-    "vless_reality_xhttp": 9,
+    "vless_reality_tcp": 96,
+    "vless_reality_xhttp": 8,
     "vless_tls_tcp": 2,
     "vless_tls_ws": 31,
     "vless_tls_xhttp": 4,
     "vmess_none_tcp": 7,
-    "vmess_none_ws": 2
+    "vmess_none_ws": 3
   },
   "total_configs": 300,
   "per_channel": {
