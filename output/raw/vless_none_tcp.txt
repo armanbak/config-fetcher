@@ -1,3 +1,7 @@
+vless://76fd8cd7-cff8-42fa-9b65-d10532536ae7@2.59.223.72:667?encryption=none&security=none&type=tcp&headerType=none#%40filembad
+vless://99d6bdee-1d04-455e-8ad9-43fc14b544b4@94.237.93.20:33651?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://4bea7803-9942-4cf7-ae48-283878dc6c0d@94.237.93.20:33651?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?&type=tcp&headerType=none&path=%2F#%40filembad
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.219.126:62145#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.79.218.80:22223?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?security=&encryption=none&headerType=none&type=tcp#%40filembad
@@ -14,9 +18,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.91:22222?encryption=none
 vless://f4685d27-73e3-4588-9622-add50b84046a@31.77.59.83:9800?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://bbc5db9e-feba-42ec-a845-d120bdd0ee4f@176.65.151.215:8880?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://a2f6c503-e8b3-4c97-ad52-15807c20ee6c@176.65.151.215:8443?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.199.26.134:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://7c49a866-4f78-4dd0-bb4a-430e75d4ee70@37.252.20.41:204?&type=tcp&headerType=none&path=%2F#%40filembad
-vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.240.71:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.193.240.71:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfigvless://1e3332a1-82d4-3c60-166b-5c54db9ff355@69.46.46.30:443?path=%2Fws%2F1e3332a1-82d4-3c60-166b-5c54db9ff355&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-01ad.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-01ad.up.railway.app#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#%F0%9F%87%B8%F0%9F%87%AC%40FreakConfigvless://93944f49-75cf-3a81-bf96-df734db609b6@69.46.46.20:443?path=%2Fws%2F93944f49-75cf-3a81-bf96-df734db609b6&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-c94d.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-c94d.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfigvless://808580aa-c9a2-4122-af67-89300df67fdf@188.213.197.141:34343?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfighysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?security=tls&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9&insecure=0&sni=a26738d5774ad803.devmrzero.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://44824a9f-b551-41f3-b561-0c130978d540@Fan1land09km.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
