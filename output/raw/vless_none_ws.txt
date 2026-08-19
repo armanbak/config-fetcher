@@ -1,3 +1,5 @@
+vless://48b1d8af-1720-4462-a0ec-de493331ceb3@104.21.88.129:8880?encryption=none&security=none&type=ws&host=square-mountain-1d69.356-977.workers.dev&path=/pyip=proxyip.kr.cmliussss.net#%40filembad
+vless://8dd8af16-cae0-4431-b04c-a637b4d7645b@104.16.107.139:8880?security=none&type=ws&path=/pyip=proxyip.us.cmliussss.net&host=wild-frog-c709.403-6ff.workers.dev&packetEncoding=xudp&encryption=none#%40filembad
 vless://565326ee-c588-4843-9472-a051578ab1ae@172.67.152.71:8880?host=lucky-cell-e8c5.490-f12.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&sni=lucky-cell-e8c5.490-f12.workers.dev&type=ws#%40filembad
 vless://00ff7e5f-9b6f-4401-aab9-4d044660411f@104.18.185.26:8880?host=summer-bonus-aa63.52-c03.workers.dev&security=none&type=ws#%40filembad
 vless://4bf6fee9-d3c4-4a98-b83b-170bf37c669c@104.26.7.214:8880?host=cold-water-945c.43-bc5.workers.dev&path=%2F&security=none&sni=cold-water-945c.43-bc5.workers.dev&type=ws#%40filembad

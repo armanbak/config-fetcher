@@ -1,1 +1,1 @@
-vless://24c2a873-4584-4c53-8679-61029682d0bb@172.67.209.127:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=soft-thunder-bc22.111-f59.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%40filembad
+vless://ce977d82-824b-4209-87f1-0719f78d6a2e@104.16.98.215:8880?fp=chrome&host=royal-mode-cf74.210-62d.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net+&security=false&type=ws#%40filembad
