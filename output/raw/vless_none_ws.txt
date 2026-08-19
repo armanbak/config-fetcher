@@ -1,7 +1,2 @@
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?path=%2F&security=none&encryption=none&host=fuckingfangbinxing.pusytroller.cf&type=ws#%40filembad
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?host=fuckingfangbinxing.pusytroller.cf&encryption=none&security=none&type=ws&path=/#%40filembad
 vless://808580aa-c9a2-4122-af67-89300df67fdf@188.213.197.141:34343?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://3b037295-b93f-4ed1-b3ee-0efb8bc2f093@104.171.137.185:2200?path=%2Fv1&security=&encryption=none&type=ws#%F0%9F%8D%81%20-%20%40configraygan-65
-vless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&host=node.badrangteb.ir&type=ws#%F0%9F%8D%81%20-%20%40configraygan-68
-vless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&host=node.badrangteb.ir&type=ws#%F0%9F%8D%81%20-%20%40configraygan-70
-vless://af325624-e28d-44fd-a8a7-058a439d128f@5.129.194.34:4100?path=%2Fv1&security=&encryption=none&type=ws#%F0%9F%8D%81%20-%20%40configraygan-1
