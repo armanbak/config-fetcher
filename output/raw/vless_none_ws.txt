@@ -1,1 +1,2 @@
+vless://206cf065-d75e-4be4-b8b1-e59b2533361c@dede.danqela.ir:23474?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://808580aa-c9a2-4122-af67-89300df67fdf@188.213.197.141:34343?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
