@@ -1,14 +1,14 @@
 {
   "categories": {
     "hysteria2_tls_quic": 3,
-    "ss_none_tcp": 42,
+    "ss_none_tcp": 43,
     "trojan_none_httpupgrade": 1,
     "trojan_reality_tcp": 1,
     "trojan_tls_tcp": 1,
     "trojan_tls_ws": 2,
     "vless_false_ws": 1,
-    "vless_none_tcp": 39,
-    "vless_none_ws": 21,
+    "vless_none_tcp": 37,
+    "vless_none_ws": 22,
     "vless_none_xhttp": 2,
     "vless_reality_grpc": 7,
     "vless_reality_tcp": 81,
