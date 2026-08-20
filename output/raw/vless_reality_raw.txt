@@ -1,1 +1,1 @@
-vless://5c22dd50-f75d-4cf5-ba53-721f91d8bfe1@193.233.255.32:443?security=reality&type=raw&sni=fr.sellflow.org&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%40filembad
+vless://085c75ad-c00b-43fb-8fea-fa0caefa0a60@38.125.120.76:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=tOWJAWnCPaJZvqorglX2JAuT5mDrSSA9VPCd90DSZRY&sni=www.apple.com&sid=241c2a5b9073f934#%40filembad
