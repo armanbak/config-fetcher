@@ -1,5 +1,4 @@
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?path=/&security=none&encryption=none&host=fuckingfangbinxing.pusytroller.cf&type=ws#%40filembad
 vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws#%40filembad
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#%40filembad
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&security=&encryption=none&type=ws#%40filembad
 vless://808580aa-c9a2-4122-af67-89300df67fdf@188.213.197.141:34343?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
