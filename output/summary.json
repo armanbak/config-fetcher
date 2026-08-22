@@ -8,11 +8,11 @@
     "vless_none_ws": 19,
     "vless_none_xhttp": 1,
     "vless_reality_grpc": 25,
-    "vless_reality_tcp": 111,
+    "vless_reality_tcp": 112,
     "vless_reality_xhttp": 6,
     "vless_tls_ws": 44,
     "vless_tls_xhttp": 12,
-    "vmess_none_tcp": 3,
+    "vmess_none_tcp": 2,
     "vmess_none_ws": 4,
     "vmess_tls_tcp": 1
   },
