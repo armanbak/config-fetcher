@@ -4,14 +4,14 @@
     "ss_none_tcp": 26,
     "trojan_reality_tcp": 1,
     "trojan_tls_ws": 3,
-    "vless_none_tcp": 49,
+    "vless_none_tcp": 50,
     "vless_none_ws": 5,
-    "vless_reality_grpc": 14,
-    "vless_reality_tcp": 132,
-    "vless_reality_xhttp": 5,
+    "vless_reality_grpc": 13,
+    "vless_reality_tcp": 130,
+    "vless_reality_xhttp": 6,
     "vless_tls_ws": 45,
     "vless_tls_xhttp": 14,
-    "vmess_none_tcp": 4
+    "vmess_none_tcp": 5
   },
   "total_configs": 300,
   "per_channel": {
