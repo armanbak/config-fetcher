@@ -1,3 +1,6 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.70.33.197:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?security=&encryption=none&headerType=none&type=tcp#%40filembad
+vless://71a5feea-5060-49f3-bd05-188d0f82046d@4.182.7.0:445?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=&encryption=none&headerType=&type=tcp#%40filembad
 vless://cde8e374-bf71-4a1f-9386-db050bc46190@81.27.110.79:8080?encryption=none&security=none&type=tcp#%40filembad
 vless://cde8e374-bf71-4a1f-9386-db050bc46190@81.27.110.79:8080?security=none&encryption=none&headerType=none&type=tcp#%40filembad
@@ -6,9 +9,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.211.42:22222?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.216:62145?&type=tcp&headerType=none&path=%2F#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.239.139:22224?encryption=none&security=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.228.38:22222?encryption=none&security=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.132.221:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://35f955ac-6904-4eae-81d5-432dbb545c21@85.234.69.247:2083?security=none&encryption=none&host=icloud.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.132.221:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
