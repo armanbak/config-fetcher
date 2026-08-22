@@ -1,3 +1,7 @@
+vless://93ee032f-b67f-4cac-a239-da1295aec528@farancenew.mamadhpbot.ir:50118?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%40filembad
+vless://93ee032f-b67f-4cac-a239-da1295aec528@usandvip-pnlsz.mamadhpbot.ir:50118?encryption=none&type=tcp#%40filembad
+vless://93ee032f-b67f-4cac-a239-da1295aec528@usandvip-pnlsz.mamadhpbot.ir:50118?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.253.165:22224?Telegram=@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server&security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@de1.levikogjgfdd.ir:22222?security=none&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#%40filembad
 vless://7a04ab9c-493a-43fc-b382-a5adb3b6e2cb@116.203.193.15:16679?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://7a04ab9c-493a-43fc-b382-a5adb3b6e2cb@116.203.193.15:16679?security=none&encryption=none&headerType=none&type=tcp#%40filembad
@@ -19,7 +23,6 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.242:62145?encryption=no
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.70.33.197:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.70.33.197:22224?encryption=none&security=none&type=tcp#%40filembad
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.158.147:62145?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.132.221:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://35f955ac-6904-4eae-81d5-432dbb545c21@85.234.69.247:2083?security=none&encryption=none&host=icloud.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
