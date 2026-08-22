@@ -1,3 +1,4 @@
+vless://9f8e7d6c-5b4a-4321-8b7a-6c5d4e3f2a1b@172.66.47.69:80?path=%2F&security=none&encryption=none&host=free-hzr26-cdn.sabzi.name.ng.&type=ws#%40filembad
 vless://b4a18856-301d-4bb2-b729-6afcb700faf5@104.16.100.66:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=red-flower-a2bf.363.workers.dev&packetEncoding=xudp&encryption=none#%40filembad
 vless://902fd911-ca5d-49a6-99ad-47372a266804@104.21.15.212:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=young-wildflower-6b6c.100-52d.workers.dev&packetEncoding=xudp&encryption=none#%40filembad
 vless://d7ec3e31-a9c4-4bdf-a2d8-7f75a8381035@104.18.13.229:8880?security=none&type=ws&path=/&host=weathered-lake-e883.35-bc4.workers.dev&packetEncoding=xudp#%40filembad
