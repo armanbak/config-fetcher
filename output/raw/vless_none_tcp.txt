@@ -21,7 +21,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.253.165:22222?security=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.52.74:22224?encryption=none&security=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.52.74:22223?encryption=none&security=none&type=tcp#%40filembad
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.242:62145?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.243:62145?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.228.38:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
