@@ -6,8 +6,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.159.232.255:22222?security=none&
 vless://e1085d91-68f5-4c42-8c43-bca04662c6fe@31.15.16.37:8443?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://2aa81f1f-57e3-4490-9eb6-7415167cb99f@46.8.102.58:2053?encryption=mlkem768x25519plus.native.0rtt.2kDjUzdOxYKXaxyyZcSPoj4cPX07ZXl3XLjjx0WRgjo&security=none&type=tcp&headerType=none#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.159.232.255:22224?encryption=none&security=none&type=tcp#%40filembad
-vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://a78f7463-ca1c-4af2-8458-52f1f382268a@91.236.168.18:38850?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.132.221:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://35f955ac-6904-4eae-81d5-432dbb545c21@85.234.69.247:2083?security=none&encryption=none&host=icloud.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.132.221:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
