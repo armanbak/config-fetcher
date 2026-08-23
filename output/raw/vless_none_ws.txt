@@ -4,5 +4,4 @@ vless://904cd6f2-9740-44e5-9353-58207c8e64c7@185.143.232.253:8080?path=%2F&type=
 vless://904cd6f2-9740-44e5-9353-58207c8e64c7@185.143.232.253:8080?encryption=none&security=none&type=ws&path=%2F&host=2ja0n7x60a.star2.panelpars.ir#%40filembad
 vless://936b7663-a841-4b42-b639-6e3fab1dbf45@201.24.126.156:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#%40filembad
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#%40filembad
-vless://3a2be404-958b-418f-a4ea-a5098a888495@38.107.237.101:33635?path=%2F&security=none&encryption=none&host=stauden-probst.de&type=ws#%40filembad
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@188.114.97.6:8080?path=musiclovers85_musiclovers85%3Fed%3D512&security=none&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%221%22%5D%2C%20%22delays%22%3A%20%5B%224%22%5D%2C%20%22maxSplit%22%3A%20%22522%22%7D%7D%5D%7D&host=josni.hoyes.cloudns.ch&type=ws#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
