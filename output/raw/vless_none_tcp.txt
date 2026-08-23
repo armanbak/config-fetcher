@@ -1,3 +1,4 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.72.202.163:22222?encryption=none&security=none&type=tcp#%40filembad
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.126:62145?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://0a603d99-a1bc-4a17-8b57-8b3ca887b8e6@31.15.16.37:8880?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp#%40filembad
@@ -15,10 +16,6 @@ vless://7a04ab9c-493a-43fc-b382-a5adb3b6e2cb@116.203.193.15:16679?security=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.85.201:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.85.201:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.52.74:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.52.74:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.253.165:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.253.165:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.253.165:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.228.38:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
