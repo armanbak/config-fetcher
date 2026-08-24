@@ -1,1 +1,2 @@
+vless://7b70f46e-2a6f-491b-92c7-3655635c0157@toni.ehsanazizi-speed-server.com:8080?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%0A%20%20%22mode%22%20%3A%20%22auto%22%2C%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%0A%7D&type=xhttp#%40filembad
 vless://c71e5acd-dd60-4239-963b-ceb978c36869@pasarguardpanel1.viramiq.ir:21463?mode=stream-up&path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt._BLdy3PivXjfaQjx6HtqfiLxO62JQp70iKkVxyjF4zs&host=myket.ir&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
