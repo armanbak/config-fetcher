@@ -1,1 +1,1 @@
-trojan://63dfd7ded2640ccf@www.speedtest.net:8080?path=%2Ftr%2F0UViHnm41NfnIUP3%3Fed%3D2560&security=none&host=nimamajor.ashganma.workers.dev&type=ws#%40filembad
+trojan://412557adf94c42c8be61b3457ce622d7@star.starnick2027.ir:56996?path=%2F%3Fed%3D1024&security=none&host=api.steampowered.com&type=ws#%40filembad
