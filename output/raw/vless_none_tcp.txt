@@ -10,7 +10,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22222?security=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@65.109.215.185:7080?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@65.109.215.185:8055?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@65.109.215.185:4049?security=none&encryption=none&host=rubika.ir&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
