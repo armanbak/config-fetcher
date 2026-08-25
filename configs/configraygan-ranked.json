@@ -1,5 +1,11 @@
 [
   {
+    "uri": "vless://27315937-5479-49fd-867d-6b2f17246708@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+    "host": "199.232.78.159",
+    "port": 443,
+    "latency_ms": 1.5
+  },
+  {
     "uri": "trojan://MiTiVPN@140.248.185.253:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#configraygan_2",
     "host": "140.248.185.253",
     "port": 443,
@@ -9,19 +15,19 @@
     "uri": "vless://b4b3b4e3-5b3c-48f7-800a-ce69aeb25c51@151.101.56.6:443?path=%2F%3FTELEGRAM--BYA--CHANEL---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN---%40JKVPN--",
     "host": "151.101.56.6",
     "port": 443,
-    "latency_ms": 1.8
-  },
-  {
-    "uri": "vless://68523e2c-59a9-4d9c-b4f8-04f8a72ec15c@199.232.245.94:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Vistitrohamfastvipnexttt.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#configraygan_4",
-    "host": "199.232.245.94",
-    "port": 443,
     "latency_ms": 1.9
   },
   {
-    "uri": "vless://c5912e82-b056-5a88-b38b-065df637fe0c@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
-    "host": "199.232.78.160",
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-24",
+    "host": "104.16.79.73",
     "port": 443,
-    "latency_ms": 1.9
+    "latency_ms": 2.0
+  },
+  {
+    "uri": "vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@199.232.78.159:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=v2mizbannnnn.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+    "host": "199.232.78.159",
+    "port": 80,
+    "latency_ms": 2.0
   },
   {
     "uri": "vless://68523e2c-59a9-4d9c-b4f8-04f8a72ec15c@199.232.77.215:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Vistitrohamfastvipnexttt.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#configraygan_6",
@@ -30,273 +36,267 @@
     "latency_ms": 2.1
   },
   {
-    "uri": "vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@199.232.78.159:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=v2mizbannnnn.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-    "host": "199.232.78.159",
-    "port": 80,
+    "uri": "vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#%F0%9F%8C%B6%20-%20%40configraygan-64",
+    "host": "104.26.14.85",
+    "port": 8443,
     "latency_ms": 2.1
   },
   {
-    "uri": "vless://27315937-5479-49fd-867d-6b2f17246708@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
-    "host": "199.232.78.159",
+    "uri": "trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8D%94%20-%20%40configraygan-48",
+    "host": "172.67.149.60",
     "port": 443,
     "latency_ms": 2.1
-  },
-  {
-    "uri": "vless://XpnTeam-17@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#configraygan_1",
-    "host": "199.232.78.160",
-    "port": 443,
-    "latency_ms": 2.7
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-11",
-    "host": "104.16.79.73",
-    "port": 443,
-    "latency_ms": 8.5
-  },
-  {
-    "uri": "vless://77e8c26d-f139-16c4-dba1-fdb9dd604127@69.46.46.123:443?path=%2Fws%2F77e8c26d-f139-16c4-dba1-fdb9dd604127&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sr-production-32df.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=sr-production-32df.up.railway.app#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
-    "host": "69.46.46.123",
-    "port": 443,
-    "latency_ms": 8.6
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-21",
-    "host": "104.16.79.73",
-    "port": 443,
-    "latency_ms": 8.7
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-52",
-    "host": "104.16.79.73",
-    "port": 443,
-    "latency_ms": 8.7
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-21",
-    "host": "172.66.44.97",
-    "port": 443,
-    "latency_ms": 8.7
   },
   {
     "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-13",
     "host": "104.16.79.73",
     "port": 443,
-    "latency_ms": 8.8
+    "latency_ms": 2.2
   },
   {
-    "uri": "vless://XpnTeam-18@104.17.108.128:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=edge-dgskj2v37hkd82n-sslhost.aliyOstd.sitE.&type=xhttp&allowInsecure=0&sni=e9abdf3df549b59f-gr2.aliyoStd.sitE.",
-    "host": "104.17.108.128",
-    "port": 443,
-    "latency_ms": 8.8
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-1",
-    "host": "172.66.44.97",
-    "port": 443,
-    "latency_ms": 8.8
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-29",
-    "host": "172.66.44.97",
-    "port": 443,
-    "latency_ms": 8.9
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-23",
-    "host": "172.66.44.97",
-    "port": 443,
-    "latency_ms": 8.9
-  },
-  {
-    "uri": "vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:2053?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
-    "host": "104.25.193.8",
-    "port": 2053,
-    "latency_ms": 8.9
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-24",
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-52",
     "host": "104.16.79.73",
     "port": 443,
-    "latency_ms": 8.9
+    "latency_ms": 2.2
   },
   {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-2",
-    "host": "104.16.79.73",
+    "uri": "vless://XpnTeam-17@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#configraygan_1",
+    "host": "199.232.78.160",
     "port": 443,
-    "latency_ms": 9.0
+    "latency_ms": 2.3
   },
   {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%2F%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-41",
-    "host": "172.66.44.97",
+    "uri": "vless://68523e2c-59a9-4d9c-b4f8-04f8a72ec15c@199.232.245.94:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Vistitrohamfastvipnexttt.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#configraygan_4",
+    "host": "199.232.245.94",
     "port": 443,
-    "latency_ms": 9.0
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=musiclovers85_musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-3",
-    "host": "172.66.44.97",
-    "port": 443,
-    "latency_ms": 9.0
-  },
-  {
-    "uri": "vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:2083?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
-    "host": "104.25.193.8",
-    "port": 2083,
-    "latency_ms": 9.0
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-38",
-    "host": "172.66.44.97",
-    "port": 443,
-    "latency_ms": 9.0
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-4",
-    "host": "104.18.37.228",
-    "port": 443,
-    "latency_ms": 9.1
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-9",
-    "host": "104.18.37.228",
-    "port": 443,
-    "latency_ms": 9.1
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-9",
-    "host": "172.66.44.97",
-    "port": 443,
-    "latency_ms": 9.1
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#configraygan_5",
-    "host": "172.66.44.97",
-    "port": 443,
-    "latency_ms": 9.2
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.117.43:443?path=musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-27",
-    "host": "104.16.117.43",
-    "port": 443,
-    "latency_ms": 9.2
-  },
-  {
-    "uri": "vless://1cc5e727-62f2-469e-963e-20af8cbf1bf5@104.18.19.193:2087?path=%2F&security=tls&encryption=none&insecure=0&host=arvan2.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=arvan2.dearhossein-taktaz.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
-    "host": "104.18.19.193",
-    "port": 2087,
-    "latency_ms": 9.2
-  },
-  {
-    "uri": "vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:443?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
-    "host": "104.25.193.8",
-    "port": 443,
-    "latency_ms": 9.2
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-38",
-    "host": "172.66.44.97",
-    "port": 443,
-    "latency_ms": 9.2
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-18",
-    "host": "104.16.79.73",
-    "port": 443,
-    "latency_ms": 9.3
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-31",
-    "host": "172.66.44.97",
-    "port": 443,
-    "latency_ms": 9.4
+    "latency_ms": 2.3
   },
   {
     "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-47",
     "host": "104.16.79.73",
     "port": 443,
-    "latency_ms": 9.4
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=musiclovers85_musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-6",
-    "host": "172.66.44.97",
-    "port": 443,
-    "latency_ms": 9.4
-  },
-  {
-    "uri": "vless://8d90b4b4-1674-45a5-810e-57d939f53fe2@www.cnae.top:443?path=%2F&security=tls&encryption=none&insecure=0&host=hhslb.vavava.kdns.fr&fp=random&type=ws&allowInsecure=0&sni=hhslb.vavava.kdns.fr#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
-    "host": "www.cnae.top",
-    "port": 443,
-    "latency_ms": 9.5
-  },
-  {
-    "uri": "vless://7600b709-382e-4dd0-9a7e-edea8ad66b8c@tandfonline.com:443?alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221%22%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&type=xhttp&sni=1.lovemehrad.dpdns.org&mode=auto&path=%2Fapi&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A%226%22%7D%7D&insecure=0&host=1.lovemehrad.dpdns.org&allowInsecure=0#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig",
-    "host": "tandfonline.com",
-    "port": 443,
-    "latency_ms": 9.5
+    "latency_ms": 2.3
   },
   {
     "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-5",
     "host": "104.16.79.73",
     "port": 443,
-    "latency_ms": 9.6
+    "latency_ms": 2.3
   },
   {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-12",
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-11",
+    "host": "104.16.79.73",
+    "port": 443,
+    "latency_ms": 2.4
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-23",
     "host": "172.66.44.97",
     "port": 443,
-    "latency_ms": 9.6
+    "latency_ms": 2.4
   },
   {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-3",
+    "uri": "vless://c5912e82-b056-5a88-b38b-065df637fe0c@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+    "host": "199.232.78.160",
+    "port": 443,
+    "latency_ms": 2.5
+  },
+  {
+    "uri": "vless://XpnTeam-18@104.17.108.128:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=edge-dgskj2v37hkd82n-sslhost.aliyOstd.sitE.&type=xhttp&allowInsecure=0&sni=e9abdf3df549b59f-gr2.aliyoStd.sitE.",
+    "host": "104.17.108.128",
+    "port": 443,
+    "latency_ms": 2.5
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-9",
+    "host": "104.18.37.228",
+    "port": 443,
+    "latency_ms": 2.5
+  },
+  {
+    "uri": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&encryption=none&security=none&fp=chrome&type=ws&host=de.vpnbase.net&path=%2Fhttp#%40filembad",
+    "host": "104.16.72.41",
+    "port": 80,
+    "latency_ms": 2.6
+  },
+  {
+    "uri": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%40filembad",
+    "host": "104.16.72.41",
+    "port": 80,
+    "latency_ms": 2.6
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=musiclovers85_musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-6",
     "host": "172.66.44.97",
     "port": 443,
-    "latency_ms": 9.7
+    "latency_ms": 2.6
   },
   {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@159.112.235.52:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#configraygan_7",
-    "host": "159.112.235.52",
-    "port": 443,
-    "latency_ms": 9.7
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-2",
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-1",
     "host": "172.66.44.97",
     "port": 443,
-    "latency_ms": 9.8
-  },
-  {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%2F%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-16",
-    "host": "172.66.44.97",
-    "port": 443,
-    "latency_ms": 10.2
+    "latency_ms": 2.6
   },
   {
     "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-15",
     "host": "172.66.44.97",
     "port": 443,
-    "latency_ms": 10.4
+    "latency_ms": 2.6
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-31",
+    "host": "172.66.44.97",
+    "port": 443,
+    "latency_ms": 2.6
+  },
+  {
+    "uri": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%221%22%5D%2C%20%22delays%22%3A%20%5B%224%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&type=ws#%40filembad",
+    "host": "188.114.97.6",
+    "port": 8080,
+    "latency_ms": 2.6
+  },
+  {
+    "uri": "vless://50414e45-4c5f-5a45-5553-52108a2d5224@104.27.88.172:80?path=%2Fapi%2Fws&security=none&encryption=none&insecure=0&host=web-app-nr6wpa.app-tp57xz.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=web-app-nr6wpa.app-tp57xz.workers.dev&fragment=tlshello%2C5%2C94%2C1%2C0&fragment2=1-1%2C109%2C1%2C1%2C355#%40filembad",
+    "host": "104.27.88.172",
+    "port": 80,
+    "latency_ms": 2.6
+  },
+  {
+    "uri": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.67.172.95:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%8C%B6%20-%20%40configraygan-72",
+    "host": "172.67.172.95",
+    "port": 443,
+    "latency_ms": 2.7
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-2",
+    "host": "172.66.44.97",
+    "port": 443,
+    "latency_ms": 2.7
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-2",
+    "host": "104.16.79.73",
+    "port": 443,
+    "latency_ms": 2.7
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-4",
+    "host": "104.18.37.228",
+    "port": 443,
+    "latency_ms": 2.8
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#configraygan_5",
+    "host": "172.66.44.97",
+    "port": 443,
+    "latency_ms": 2.9
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-38",
+    "host": "172.66.44.97",
+    "port": 443,
+    "latency_ms": 2.9
   },
   {
     "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-25",
     "host": "172.66.44.97",
     "port": 443,
-    "latency_ms": 10.5
+    "latency_ms": 2.9
   },
   {
-    "uri": "vless://ad192c6d-c5ee-4a21-a6bf-85218caa4ef9@192.220.15.222:8443?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lfOSEE80tv3mvi9fSBcj-oLKDJm2lmdj1PIMLvKwxRc&fp=chrome&spx=%2F&type=xhttp&sni=www.amd.com&sid=69#configraygan_16",
-    "host": "192.220.15.222",
-    "port": 8443,
-    "latency_ms": 11.0
+    "uri": "vless://7600b709-382e-4dd0-9a7e-edea8ad66b8c@tandfonline.com:443?alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221%22%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&type=xhttp&sni=1.lovemehrad.dpdns.org&mode=auto&path=%2Fapi&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A%226%22%7D%7D&insecure=0&host=1.lovemehrad.dpdns.org&allowInsecure=0#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig",
+    "host": "tandfonline.com",
+    "port": 443,
+    "latency_ms": 2.9
   },
   {
-    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=musiclovers85_musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-20",
+    "uri": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:8080?path=%2F%3Fed%3D2560&security=&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%221%22%5D%2C%20%22delays%22%3A%20%5B%224%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&type=ws#%40filembad",
+    "host": "188.114.97.6",
+    "port": 8080,
+    "latency_ms": 2.9
+  },
+  {
+    "uri": "vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=%2Fdownload.php%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#configraygan_10",
+    "host": "172.67.74.10",
+    "port": 443,
+    "latency_ms": 3.0
+  },
+  {
+    "uri": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%8C%B6%20-%20%40configraygan-69",
+    "host": "188.114.97.6",
+    "port": 443,
+    "latency_ms": 3.0
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.117.43:443?path=musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-27",
+    "host": "104.16.117.43",
+    "port": 443,
+    "latency_ms": 3.0
+  },
+  {
+    "uri": "vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=%2FGOrbEh%23TELEGRAM-ICV2RAY%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%8D%94%20-%20%40configraygan-61",
+    "host": "104.21.71.238",
+    "port": 443,
+    "latency_ms": 3.0
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@159.112.235.52:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#configraygan_7",
+    "host": "159.112.235.52",
+    "port": 443,
+    "latency_ms": 3.0
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%2F%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-41",
     "host": "172.66.44.97",
     "port": 443,
-    "latency_ms": 11.1
+    "latency_ms": 3.1
   },
   {
-    "uri": "vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#%F0%9F%8C%B6%20-%20%40configraygan-64",
-    "host": "104.26.14.85",
+    "uri": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#%40filembad",
+    "host": "172.64.150.28",
+    "port": 2082,
+    "latency_ms": 3.1
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-38",
+    "host": "172.66.44.97",
+    "port": 443,
+    "latency_ms": 3.1
+  },
+  {
+    "uri": "vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:443?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-55srwb.arynzlfkhany.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
+    "host": "104.25.193.8",
+    "port": 443,
+    "latency_ms": 3.1
+  },
+  {
+    "uri": "vless://1cc5e727-62f2-469e-963e-20af8cbf1bf5@104.18.19.193:2087?path=%2F&security=tls&encryption=none&insecure=0&host=arvan2.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=arvan2.dearhossein-taktaz.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+    "host": "104.18.19.193",
+    "port": 2087,
+    "latency_ms": 3.1
+  },
+  {
+    "uri": "trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%A5%A5%20-%20%40configraygan-70",
+    "host": "188.114.97.7",
+    "port": 443,
+    "latency_ms": 3.1
+  },
+  {
+    "uri": "vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?path=%2Fdownload.php%23TELEGRAM-TOOTFFARANGI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig",
+    "host": "188.114.97.4",
     "port": 8443,
-    "latency_ms": 16.1
+    "latency_ms": 3.2
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=musiclovers85_musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8D%94%20-%20%40configraygan-3",
+    "host": "172.66.44.97",
+    "port": 443,
+    "latency_ms": 3.2
+  },
+  {
+    "uri": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%A5%A5%20-%20%40configraygan-3",
+    "host": "172.66.44.97",
+    "port": 443,
+    "latency_ms": 3.2
   }
 ]
