@@ -1,3 +1,6 @@
+vless://89264058-d9d8-40f1-9de2-79b52c676f7b@45.156.186.15:8880/?type=tcp&encryption=mlkem768x25519plus.native.0rtt.aAUcPmmboCfNLndYoxDhnD3xtKUgtIcVYXXQEuH9thA&security=none#%40filembad
+vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?encryption=none&type=tcp&headerType=none#%40filembad
+vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&encryption=none&type=tcp&headerType=none#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.9.166:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.9.166:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.9.166:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
@@ -5,12 +8,6 @@ vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=none&
 vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&security=none&type=tcp&headerType=none#%40filembad
-vless://263bae3e-f51c-4946-9c1f-2585347a3dd1@195.133.84.198:8443?security=none&encryption=none&host=https%3A%2F%2Ft.me%2FShadowFlux2&headerType=none&type=tcp#%40filembad
-vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@182.16.61.5:45647?security=&encryption=none&headerType=none&type=tcp#%40filembad
-vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80/?type=tcp&encryption=none&security=none#%40filembad
-vless://263bae3e-f51c-4946-9c1f-2585347a3dd1@195.133.84.198:8443?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://263bae3e-f51c-4946-9c1f-2585347a3dd1@150.251.138.142:8443?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://d8b42cd5-b149-4356-9e61-444444444444@45.140.36.74:1062?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://79c08658-753d-41f7-90af-dd03b0e68f75@213.156.152.110:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.132.221:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://35f955ac-6904-4eae-81d5-432dbb545c21@85.234.69.247:2083?security=none&encryption=none&host=icloud.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
