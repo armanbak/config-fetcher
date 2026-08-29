@@ -1,9 +1,9 @@
-vless://5626ce32-dad0-468b-952c-e53d609100f1@212.87.199.122:58416?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.114.162:22224?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&encryption=none&security=none&type=tcp#%40filembad
-vless://5626ce32-dad0-468b-952c-e53d609100f1@212.87.199.122:58416?encryption=none&security=none&type=tcp&headerType=none#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.41.57.97:22224?security=&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.146.182:22224?encryption=none&security=none&type=tcp&headerType=none#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.41.57.97:22224?encryption=none&security=none&type=tcp&headerType=none#%40filembad
+vless://e4f2a7bb-8392-43c7-99b4-fa5e3872d665@144.172.119.9:443?encryption=none&security=none&type=tcp#%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.188.198:22224?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.188.198:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.188.198:22224?encryption=none&security=none&type=tcp&headerType=none#%40filembad
+vless://47c4ca1b-3190-460d-9956-95240e4de125@iran.harmira.ir:6895?security=none&encryption=mlkem768x25519plus.native.0rtt.9VdibyTxC6joaDgaQ1rnSEYfBQOlgDJGnlDA6sVJ8kU&headerType=none&type=tcp#%40filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.188.198:22222?encryption=none&security=none&type=tcp#%40filembad
 vless://101b5fea-8201-4ff9-84b3-12bf49ce6645@153.75.87.192:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://101b5fea-8201-4ff9-84b3-12bf49ce6645@144.172.119.9:110?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.41.57.97:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
