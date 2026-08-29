@@ -1,1 +1,1 @@
-vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=firefox&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&sid=59ccabb0a1483c4b#%40filembad
+vless://58f133a9-0b8c-4237-ba40-c69d32a35e27@es.crsmaps.com:8443?type=raw&security=reality&flow=xtls-rprx-vision&sni=es.crsmaps.com&fp=firefox&pbk=a3GoC3C_iivnODIDqFa3tHZijHieMI2xFp-lIfnGs04&sid=6a30b9b482bc#%40filembad

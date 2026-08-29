@@ -1,2 +1,1 @@
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-hysteria2://NL2026hy@147.45.149.88:8443?security=tls&obfs=salamander&obfs-password=SalamanderNL2026&insecure=0&sni=nl.nobelchat.ru#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
