@@ -1,8 +1,8 @@
+vless://2fe74ab0-1995-4ee8-90ff-e8ad9d1206e6@151.101.110.219:80?path=%2Fapi&security=none&encryption=none&host=franseeeeeee.global.ssl.fastly.net&type=ws#%40filembad
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#%40filembad
+vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=%2F&security=none&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#%40filembad
 vless://5b875f28-c429-4abe-b760-5bc0b556b49a@199.232.78.150:80?security=none&allowInsecure=0&encryption=none&type=ws&host=7wwwspeedtestnet.global.ssl.fastly.net&path=/#%40filembad
 vless://6eb5038b-4b13-427f-98f3-6640c4cf44ce@ETESALATE.aroonsid.ir:2000?type=ws&host=play.google.com&security=none&path=%2F%3Fed%3D2560&encryption=none#%40filembad
 vless://SoonTeam@dee.im-soon.com:443?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%40filembad
-vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=%2F&security=&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#%40filembad
-vless://SoonTeam@dee.im-soon.com:443?path=%2F&security=&encryption=none&host=play.google.com&type=ws#%40filembad
-vless://2186ed74-f2b6-432c-bd5d-56e3ce489f8f@185.143.233.238:2052?path=%2Fpgcfws-r4&security=&encryption=none&host=cdn.mymarzban.sbs&type=ws#%40filembad
 vless://c4c43632-9a9b-45a9-9656-78267ede5c66@130.185.121.30:443?path=%2F&security=none&encryption=none&host=130.185.121.30&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
