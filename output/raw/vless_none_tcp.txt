@@ -9,7 +9,6 @@ vless://8a87f7e1-faa1-4040-a417-b263605da0de@404.e404ng.fun:443?encryption=none&
 vless://1236329f-bc88-43a2-ae3b-7cf63ab1bf11@108.61.177.236:32263?encryption=none&security=none&type=tcp&headerType=none#%40filembad
 vless://640a1f84-3273-4e3e-8465-7633ab16a585@it.selqora.ir:22211?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e184e002-0169-462a-a709-5bbc1f30e6b2@176.97.218.225:2020?encryption=none&security=none&type=tcp&headerType=none#%40filembad
-vless://e184e002-0169-462a-a709-5bbc1f30e6b2@176.97.218.225:2020?encryption=none&security=none&type=tcp#%40filembad
 vless://5626ce32-dad0-468b-952c-e53d609100f1@212.87.199.122:58416?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://896caf1b-cd54-481f-8c2c-22aedc28f13b@95.179.219.244:39769?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.170.94.231:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
