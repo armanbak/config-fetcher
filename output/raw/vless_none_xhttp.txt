@@ -1,1 +1,1 @@
-vless://b5c36be7-c0dc-4b72-904e-ba840cba7c49@199.232.78.159:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=v2mizbannnnn.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
+vless://24e84618-3de6-4e3b-802e-5abbe666c4b0@tr-server-1.zelnora.ir:22189?mode=packet-up&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=amp-api-edge.apps.apple.com&type=xhttp#%40filembad
