@@ -2,8 +2,6 @@ vless://4283865b-7145-44d3-9855-96298c47424d@136.244.112.46:37710?encryption=non
 vless://72e46328-0b5a-4d03-a49e-0fab66d8aba0@31.57.29.225:8443?encryption=none&security=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22222?headerType=none&encryption=none&type=tcp&security=none#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22222?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://f0cbbd20-26c5-4b23-be62-1a9729c8428e@panelarshiavpnshop.arshialezat.ir:44702?encryption=none&security=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://5626ce32-dad0-468b-952c-e53d609100f1@212.87.199.122:58416?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://896caf1b-cd54-481f-8c2c-22aedc28f13b@95.179.219.244:39769?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
