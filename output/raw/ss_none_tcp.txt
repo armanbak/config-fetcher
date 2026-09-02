@@ -1,6 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMTliOTkxNjAxNjc5YzU1OWM0MGFmZDJlODIzZWJiNw@gr22.hiphonemobile.top:8090#%40filembad
-ss://chacha20-ietf-poly1305:tunnel-astrovpn_official@213.108.198.158:8444#%40filembad
-ss://YWVzLTI1Ni1nY206TVdJME4ySmpaV1JrT1dZMFlUVTFOR1kwTm1NeVpUQmtORFpqWmpKbQ@94.101.187.94:9110?prefix=%16%03%01%00%C2%A8%01%01#%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppUkFUU2JWRjBxMTI0enZ0ODM2OTFqZURYWmFkUHRkaQ@pl-server-1.zelnora.ir:1080#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYjB1Uk4ycjhDQUNpMXRxT3NaTjNuNWpfSWN5cWNFbQ@Irj.jobwebs.ir:25341#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig
