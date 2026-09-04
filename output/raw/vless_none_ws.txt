@@ -1,9 +1,3 @@
-vless://85440524-5b45-456c-8491-932f950af276@delfatura.umutnakliyatdepo.com.tr:17061?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%40filembad
-vless://c422f575-a7ea-4bac-897a-e29021ec8cab@8970141323_a39b.d2a.syslogd.ir:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=mlkem768x25519plus.native.0rtt.pXEzueg8e8OZoPz_hGsx3Erz0ETvAAip9anVVdjurmA&host=play.google.com&type=ws#%40filembad
-vless://85440524-5b45-456c-8491-932f950af276@delfatura.umutnakliyatdepo.com.tr:17061?security=none&encryption=none&fm=https%3A%2F%2Ft.me%2FShadowFlux2&host=play.google.com&type=ws#%40filembad
-vless://c422f575-a7ea-4bac-897a-e29021ec8cab@8970141323_a39b.t3a.syslogd.ir:9093?path=%2Fapi%2Fv2%2Fcom.trezor.io%3Fed%3D2560&security=none&encryption=mlkem768x25519plus.native.0rtt.JKTfELQ3_c8HCxgXaFT-sKtAQsynyKTdpUxf6B3LJUg&host=play.google.com&type=ws#%40filembad
-vless://c422f575-a7ea-4bac-897a-e29021ec8cab@8970141323_a39b.t1a.syslogd.ir:9093?path=%2Fapi%2Fv2%2Fcom.trezor.io%3Fed%3D2560&security=none&encryption=mlkem768x25519plus.native.0rtt.JKTfELQ3_c8HCxgXaFT-sKtAQsynyKTdpUxf6B3LJUg&host=play.google.com&type=ws#%40filembad
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40filembad
-vless://85440524-5b45-456c-8491-932f950af276@delfatura.umutnakliyatdepo.com.tr:17061?path=%2F&security=&encryption=none&host=play.google.com&type=ws#%40filembad
+vless://756ea156-59e8-435f-96d0-80b10ead19db@199.232.78.159:80?path=%2F&security=none&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#%40filembad
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#%40filembad
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://c4c43632-9a9b-45a9-9656-78267ede5c66@130.185.121.30:443?path=%2F&security=none&encryption=none&host=130.185.121.30&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig

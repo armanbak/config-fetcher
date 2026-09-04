@@ -1,1 +1,1 @@
-trojan://UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN--UONVPN@104.253.175.248:41161?security=reality&pbk=fGiy6GU6FjQXWNzUVpW3gWz3yvrERV8ovGajJc9rgmM&headerType=none&fp=chrome&spx=%2Fc986d55f990116e&type=tcp&sni=www.cloudflare.com&sid=a3f3ba2e#%40filembad
+trojan://b56p1xfb6pld0zvq@fasty.dearhossein-taktaz.ir:2087?security=reality&pbk=cfUvXgiz1TkVZyTQYWpZoHinxm9BYZ7x0j3-VeqzdHk&headerType=none&fp=chrome&spx=%2Fe5ef628cfe22da9&type=tcp&sni=android.com&sid=d13e#%40filembad
