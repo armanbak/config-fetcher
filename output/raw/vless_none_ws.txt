@@ -1,8 +1,10 @@
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.21.70.21:8080?path=%2F&security=none&encryption=none&host=calm-smoke-1a21.alvlirm6262.workers.dev&type=ws&sni=calm-smoke-1a21.alvlirm6262.workers.dev#%40filembad
-vless://98b6cb05-b5ab-4c82-8683-07de28f796a9@188.114.97.6:2086?path=%2FeyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&security=none&encryption=none&host=holy-glitter-39f9.wwewee2dasdds.workers.dev&type=ws#%40filembad
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%40filembad
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.21.70.21:8080?path=%2F&security=&encryption=none&host=calm-smoke-1a21.alvlirm6262.workers.dev&type=ws&sni=calm-smoke-1a21.alvlirm6262.workers.dev#%40filembad
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?path=%2F&security=none&encryption=none&host=vms.lifetime19.workers.dev&type=ws#%40filembad
-vless://98b6cb05-b5ab-4c82-8683-07de28f796a9@188.114.97.6:2086?path=%2FeyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&security=&encryption=none&host=holy-glitter-39f9.wwewee2dasdds.workers.dev&type=ws#%40filembad
-vless://756ea156-59e8-435f-96d0-80b10ead19db@199.232.78.159:80?path=%2F&security=none&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#%40filembad
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40filembad
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40filembad
+vless://a3558ef4-b843-4b05-8456-495815234c95@199.232.78.159:80?encryption=none&security=none&type=ws&host=yaSharClass.global.ssl.fastly.net&path=%2F#%40filembad
+vless://a3558ef4-b843-4b05-8456-495815234c95@199.232.78.159:80?path=%2F&security=none&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#%40filembad
+vless://a3558ef4-b843-4b05-8456-495815234c95@199.232.78.159:80?path=%2F&security=&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#%40filembad
+vless://a3558ef4-b843-4b05-8456-495815234c95@199.232.78.159:80?path=%2F&security=&encryption=none&host=FastSvn.global.ssl.fastly.net&type=ws#%40filembad
+vless://f98faee0-032f-46bc-befb-aa2ba06921cc@199.232.78.159:80?path=%2F&security=none&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#%40filembad
+vless://f98faee0-032f-46bc-befb-aa2ba06921cc@199.232.78.159:80?path=%2F&security=&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#%40filembad
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig

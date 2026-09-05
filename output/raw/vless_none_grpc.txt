@@ -1,1 +1,2 @@
-vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.76:2053?mode=gun&security=none&encryption=none&type=grpc&serviceName=v-grpc#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
+vless://0880bb53-58fc-47fe-a3ba-7fb9dd192e02@37.221.110.167:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#%40filembad
+vless://02c05088-fcb4-4366-b8d3-98d68c7bdb98@37.221.110.245:2085?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=vless#%40filembad
