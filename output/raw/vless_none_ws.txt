@@ -1,6 +1,4 @@
+vless://756ea156-59e8-435f-96d0-80b10ead19db@199.232.78.159:80?path=%2F&security=none&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#%40filembad
 vless://1b71edb8-bfaf-43fc-9a95-7e81bab7e197@199.232.78.159:80?path=%2F&security=&encryption=none&host=FastSvn.global.ssl.fastly.net&type=ws#%40filembad
 vless://1b71edb8-bfaf-43fc-9a95-7e81bab7e197@199.232.78.159:80?path=%2F&security=&encryption=none&host=BlackGod.global.ssl.fastly.net&type=ws#%40filembad
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%40filembad
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40filembad
-vless://756ea156-59e8-435f-96d0-80b10ead19db@199.232.78.159:80?path=%2F&security=none&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#%40filembad
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig

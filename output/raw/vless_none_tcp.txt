@@ -1,9 +1,6 @@
+vless://012f5e18-d018-4eaa-a84b-339798ee322b@fr1.free-imi.ir:443?encryption=none&security=none&type=tcp&headerType=none&host=fr2.free-imi.ir#%40filembad
 vless://3614a2a2-b0db-43f7-9a34-b1248539d848@82.152.132.103:64584?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=none&type=tcp#%40filembad
 vless://78685e90-c5fd-4c01-9ff4-a63ea1cdc998@87.58.155.25:443?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://f217b137-b4c9-42c3-9db6-7017f0f70c2e@5.75.196.249:110?security=none&encryption=none&headerType=none&type=tcp#%40filembad
-vless://d87b4264-a9ff-4e01-8300-9b48f0f7ecc4@5.75.196.249:2095?security=&encryption=none&headerType=none&type=tcp#%40filembad
-vless://f217b137-b4c9-42c3-9db6-7017f0f70c2e@5.75.196.249:110?security=&encryption=none&headerType=none&type=tcp#%40filembad
-vless://d87b4264-a9ff-4e01-8300-9b48f0f7ecc4@5.75.196.249:433?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.123.186:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.123.186:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
