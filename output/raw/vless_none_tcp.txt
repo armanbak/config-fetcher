@@ -1,6 +1,14 @@
+vless://7037b6a1-d8f0-40af-99e9-41bad4c32c51@italy.selqora.ir:22211?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:2020?security=&encryption=none&headerType=none&type=tcp#%40filembad
+vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:11460?security=&encryption=none&headerType=none&type=tcp#%40filembad
+vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:4443?security=&encryption=none&headerType=none&type=tcp#%40filembad
+vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:8443?security=&encryption=none&headerType=none&type=tcp#%40filembad
+vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:1000?security=&encryption=none&headerType=none&type=tcp#%40filembad
+vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:80?security=&encryption=none&headerType=none&type=tcp#%40filembad
+vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:443?security=&encryption=none&headerType=none&type=tcp#%40filembad
+vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:7443?security=&encryption=none&headerType=none&type=tcp#%40filembad
+vless://a3e097da-b8ba-47b8-a181-44a916bceca3@171.22.24.101:8880?security=&encryption=none&headerType=none&type=tcp#%40filembad
 vless://3614a2a2-b0db-43f7-9a34-b1248539d848@82.152.132.103:64584?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=none&type=tcp#%40filembad
-vless://c3f84246-8733-48a0-972f-cb08b3bb4efd@185.7.172.174:2083?security=&encryption=none&headerType=none&type=tcp#%40filembad
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.157.77:22223?security=none&encryption=none&headerType=none&type=tcp#%40filembad
 vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.186.182:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://603819a3-dd65-408a-abab-15d8dc49887f@167.71.7.72:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://109de54b-25f8-40cd-acfa-a05df873942e@91.107.145.117:40893?security=none&encryption=mlkem768x25519plus.native.0rtt.o6Wf5_-drqcw9U0dxA4LPHDREUVsHtdiCXl1J1qwPBQ&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
