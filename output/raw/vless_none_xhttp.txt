@@ -1,1 +1,1 @@
-vless://24e84618-3de6-4e3b-802e-5abbe666c4b0@tr-server-1.zelnora.ir:22189?mode=packet-up&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=amp-api-edge.apps.apple.com&type=xhttp#%40filembad
+vless://3116d1d0-982c-4aba-be49-16f88d5ebb2d@mmdpenenxbdod.sobu.ir:44516?encryption=mlkem768x25519plus.native.0rtt.RRE6I0td6U3TxpQemCiqigW9nl1Z0WOVAvKLC8ldcSQ&security=none&type=xhttp&headerType=none&path=%2F&mode=auto#%40filembad

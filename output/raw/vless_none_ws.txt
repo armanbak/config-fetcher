@@ -1,7 +1,12 @@
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40filembad
+vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?encryption=none&type=ws&path=%2F&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&insecure=1&allowInsecure=1#%40filembad
+vless://3956dbac-64e0-47e0-b578-47e387db80c3@199.232.78.159:80?path=%2F&security=&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#%40filembad
+vless://3116d1d0-982c-4aba-be49-16f88d5ebb2d@mmdpenenxbdod.sobu.ir:50760?encryption=mlkem768x25519plus.native.0rtt.No9Jz5Ex-Yy0fvK49qsUzrpmZp0nm917vgPGmyWT2jw&security=none&type=ws&headerType=none&path=%2F#%40filembad
+vless://7d468921-7b22-4c0a-aa4c-d2bb21813be4@it1.seyhellodigi.com:2007?path=%2Fapi%2Fadd%2F2qnYtSDZhdin2KYsdiqINmB24zZhNiq2LEg2YbaqdmG&security=none&encryption=none&host=play.google.com&type=ws#%40filembad
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40filembad
 vless://0e36cfc2-66e2-43d9-91b4-a62b26bcfe4c@199.232.78.159:80?path=%2F&security=none&encryption=none&host=FastSvn.global.ssl.fastly.net&type=ws#%40filembad
 vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?path=%2F4de527ea5ed9&security=none&encryption=none&type=ws#%40filembad
 vless://0e36cfc2-66e2-43d9-91b4-a62b26bcfe4c@199.232.78.159:80?path=%2F&security=none&encryption=none&host=yaSharClass.global.ssl.fastly.net&type=ws#%40filembad
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40filembad
 vless://0e36cfc2-66e2-43d9-91b4-a62b26bcfe4c@199.232.78.159:80?path=%2F&security=&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#%40filembad
 vless://4a269a45-a9e3-4272-b04a-1d42d581150f@45.95.184.120:2087?path=%2F4de527ea5ed9&security=&encryption=none&type=ws#%40filembad
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40filembad
@@ -17,5 +22,4 @@ vless://d1c44dee-3a4c-47eb-bfd0-bc5a15ac7d5f@varzesh3.com:80?encryption=none&sec
 vless://d1c44dee-3a4c-47eb-bfd0-bc5a15ac7d5f@arvancloud.ir:80?encryption=none&security=none&type=ws&host=tur.safari-df.ir&path=%2Fws#%40filembad
 vless://d1c44dee-3a4c-47eb-bfd0-bc5a15ac7d5f@arvancloud.ir:2095?encryption=none&security=none&type=ws&host=dashboard.hamrahconff.ir&path=%2Fpgcfws-r4#%40filembad
 vless://d1c44dee-3a4c-47eb-bfd0-bc5a15ac7d5f@varzesh3.com:8080?encryption=none&security=none&type=ws&host=dash.hamrahconff.ir&path=%2Fws#%40filembad
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%40filembad
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
