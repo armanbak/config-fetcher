@@ -7,5 +7,4 @@ vless://5efabea4-f6d4-91fd-b8f0-17e004c89c68@38.58.180.136:3087?encryption=none&
 vless://d4eb2efc-b444-4e9e-bebe-282b96c07d49@199.232.78.159:80?path=%2F&security=&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#%40filembad
 vless://d4eb2efc-b444-4e9e-bebe-282b96c07d49@199.232.78.159:80?path=%2F&security=&encryption=none&host=BlackGod.global.ssl.fastly.net&type=ws#%40filembad
 vless://1c8a341b-050d-4dff-9f5c-df367d606993@199.232.78.159:80?path=%2F&security=none&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#%40filembad
-vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=%2F&security=&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#%40filembad
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
