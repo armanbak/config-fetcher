@@ -1,3 +1,5 @@
+vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=%2F&security=&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#%40filembad
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40filembad
 vless://4f54572a-b852-4da3-8823-0ddccc60b5d8@172.67.184.37:8880?path=%2F&security=none&encryption=none&host=icy-snowflake-1f56.147-1ea.workers.dev&type=ws#%40filembad
 vless://d829cf8d-0a32-4e60-bcc3-a03fb4658ea4@104.21.88.129:8880?path=%2Fpyip&security=none&encryption=none&host=shy-wind-a26f.182-104.workers.dev&type=ws#%40filembad
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.30:8880?security=none&encryption=none&host=vms.lifetime17.workers.dev&type=ws#%40filembad
@@ -11,9 +13,4 @@ vless://6d613d5f-1d65-48ca-b2e8-d83a2c3a17d9@172.64.80.1:8880?path=%2Fpyip%3DPro
 vless://d8a7b463-dc98-474d-a87e-8781476aef32@172.67.190.141:8880?type=ws&encryption=none&path=/pyip=ProxyIP.KR.CMLiussss.net&host=ancient-tree-7dc9.336-5f9.workers.dev&fp=chrome&alpn=http/1.1&headerType=none#%40filembad
 vless://3a38b35b-7b31-452c-954f-99c2f45dda19@104.17.26.45:8880?encryption=none&security=none&type=ws&host=sweet-truth-0f0c.71-fca.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%40filembad
 vless://08125d23-5500-41ae-97ef-8398eaf70562@104.21.5.128:2052?path=%2F%40BlueKnight_net--%40BlueKnight_net&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#%40filembad
-vless://3ec8b30f-9779-44e1-88c6-6612b786df5f@151.101.56.9:80?encryption=none&security=none&type=ws&host=freekabotar1.global.ssl.fastly.net&path=%2Fws#%40filembad
-vless://3ec8b30f-9779-44e1-88c6-6612b786df5f@151.101.192.223:80?encryption=none&security=none&type=ws&host=freekabotar4.global.ssl.fastly.net&path=%2Fws#%40filembad
-vless://df1ecf1d-ebc4-424c-9cef-b10930604d19@151.101.56.9:80?encryption=none&security=none&type=ws&host=freekabotar1.global.ssl.fastly.net&path=%2Fws#%40filembad
-vless://df1ecf1d-ebc4-424c-9cef-b10930604d19@151.101.192.223:80?encryption=none&security=none&type=ws&host=freekabotar4.global.ssl.fastly.net&path=%2Fws#%40filembad
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40filembad
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
